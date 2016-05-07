@@ -1,0 +1,30 @@
+<div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>BlockEmp County Jail</h2>
+                            <p>Du wolltest schon immer mal so richtig weggesperrt werden aber dabei nich auf eine ansprechende Architektur und zuvorkommenden Service verzichten? Dann haben wir seit neustem genau das richtige für dich!
+<br/><br/>
+<strong>Haftaufentalt</strong><br/>
+Das neu eröffnete BlockEmp County Jail bietet dierekt in Spawn-Nähne alles, was das Herz begehrt. In zwei geräumigen Zellen-Blöcken erwartet den geneigten Insassen neben einem individuellen Service vor allem auch der Luxus einer nach neusten Erkenntnissen gestalteten Doppelzelle. Feste Zeiten für die Lebendkontrolle sowie geregelte Mahlzeiten vermitten dem Insassen des BlockEmp County Jail einen geordneten Tagesablauf ohne ihn dabei in irgendwelche Haftschemata zu drängen.<br/>
+Um Mobbing unter den Insassen zu verhindern, Gang-Bildung vorzubeugen und gewalttätige Übergriffe auf das Haftpersonal zu verhindern gilt für die Insassen der Haftanstalt neben eihnem 24-Stündigen Einschluss auch die Pflicht zur Einheitskleidung. Ebenso ist den Häftlingen im geregelten Verzug in den Zellenblöcken A und B aus diesem Grund die individuelle Gesaltung der Hafträumlichkeiten untersagt.<br/><br/>
+<strong>Freizeitgestaltung</strong><br/>
+Den Häftlingen im BlockEmp County Jail stehen neben zahlreichen Besserungslektüren aus den Themenbereichen "Gib mich Op", "Plungin-Troll", "Client-Hacker", "Serververbesserer" und "HD-, LP-, XD-Kiddie" auch zahlreiche Rätzelhefte und Klatsch-Zeitschriften zur Verfügung. Ein Häftling im geregelten Vollzug hat zudem ein mal in der Woche die Möglichkeit sich im Gefängnisshof und der Anstaltseigenen Turnhalle sportlich zu betätigen.<br/><br/>
+<strong>Verpflegung</strong><br/>
+Die Verpflegung der Häftlinge orientiert sich stets dierekt an der Haftregelverordnung für Häftlinge auf dem Blockempirium. Entsprechend erhält jeder Häftling im Vollzug zwei mal Täglich eine angemessene Ration Wasser und Brot. An Sonn- und Feiertagen wird außerdem eine Suppe gereicht.<br/>
+Durch den verzicht auf Fleischspeisen ist es der Betreibergesellschaft der Haftanstalt möglich die Kosten pro Häftling sogar noch unter das durchschnittliche Haftkostenniveau ander Haftanstaltten zu drücken. Die dadurch ermöglichte Versorgung des Personals mit Kuchen und Törtchen trägt sowohl zur guten Stimmung unter den Angestellten als auch zur allgemeinen Häftlingszufriedenheit bei.<br/><br/>
+<strong>Hygiene</strong><br/>
+Zur wahrung eines würdigen Hygiene-Levels unter den Insassen verfügt jede Zelle über ein eigenes Waschbecken sowie eine Toilette mit Wasserspühlung. Den Häftlingen ist es zudem gestattet nach der wöchentlichen Sportstunde den anstaltseigenen Duschkomplex aufzusuchen. Hier erwartet den Häftling neben bereitgestellten Frottee-Handtüchern auch der Luxus einer aus dem anstaltseigenen Heizkraftwerk gespeisten Warmwasserdusche.<br/>
+Ein besonder Luxus erwartet übrigens jeden Häftling, der währen seiner Haftzeit seine Geburtstag feiert. Ihm gestattet es die Anstaltsleitung am Vorabend den Waschraum aufzusuchen.
+<br/><br/>
+<strong>Sonderbehandlung</strong><br/>
+Dem Anspruch einer "All in one"-Haftanstalt folgen bietet das BlockEmp County Jail neben dem geregelten Vollzug in den Zellenblöcken A und B auch mehrere qualitativ hochwertige Sonderhaftkonzepte. Besonders hervorzuheben ist an dieser stelle der Einzelhaftraum "Loch", der neben totaler Isolation vor allem auch schlechte Lichtverhälltnisse beietet uns somit optimal zur inneren Einkehr geeignet ist.<br/>
+Ein weiteres Highleit bietet neben dem Loch auch der Todestrack des BlockEmp County Jail. Hier erwartet den Gefangenen neben einer luxiorös gestateten Einzelzelle auch geschultes Personal und eine mannigfaltige Auswahl an Henkersmahlzeiten. Dem hochqualifizierten Chef-Henker Dave ist zudem sehr daran gelegen jedem Häfting auf dem Weg in die ewigen Blöcke den bestmöglichen Service zu bieten und führt vor der Hinrichtung mit den Todeskandidaten ausführliche Gespräche über die individuelle Gestlatung der Hinrichtungszeremonie auf dem hochmodernen elektrischen Stuhl.<br/><br/>
+<strong>Buchungsmöglichkeiten</strong><br/>
+Deinen Traum-Aufentalt im BlockEmp-County Jail kannst du dir ganz einfach bei jedem Beusch auf dem BlockEmpirium buchen. Alles was du dafür tun musst, ist gegen einer der von uns gestellten Regeln zu verstoßen. Sollte dich das jedoch bereits überfordern, besteht zudem auch die möglichkeit ein Teammitglied deines Vertrauens nach den Haftmodalitäten zu Fragen. Wir finden dort in nach individueller Begutachtung deines Falls einen angemessenen Haftraum für dich!
+</p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> schlie&szlig;en</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
