@@ -567,8 +567,19 @@
     <!-- Use the modals below to showcase details about your portfolio projects! -->
 
     <!-- Portfolio Modal 1 -->
-
-<?php require_once(ishmatu.txt); ?>
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <?php
+require('ishmatu.txt');
+?>
+        </div>
+    </div>
 
     <!-- Portfolio Modal 2 -->
     <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
