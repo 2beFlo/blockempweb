@@ -1,0 +1,28 @@
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Al Ishmatu</h2>
+                            <p class="item-intro text-muted">Das Herz der Wüste.</p>
+                            <p>Al Ishmatu ist eine Stadt in der Wüste - nördlich von Savannah Peak und südlich von Tibolat. Zu erreichen ist sie über den Flugmeister-Service oder über das Flopulver- Netzwerk. Ein Besuch ist immer lohnenswert - auch nachts, da die Stadt monsterfrei ist (bis auf wenige verirrte Kreaturen). Zum Schauen und Entdecken laden das Minenviertel mit der öffentlichen Mine, den Schmelzöfen und der Hafenanlage ein. Imposant und sehenswert ist auf jeden Fall der Tempelbereich.<br/>
+Beim Schlendern durch die Altstadt mit den kleinen Läden, diverser Gastronomie und ortstypischen Handwerksbetrieben sollte man Zeit mitbringen. In jedem Haus gibt es etwas zu entdecken. Dort befindet sich auch das legendäre Spielcasino. Aber: Glücksspiel kann süchtig (oder reich) machen. Ebenfalls zu finden, ist hier ein Lagerhaus, in dem man ganz besonderen Sandstein kaufen kann. Ein Geheimtipp für alle Bauwütigen unter euch.<br/>
+Im ländlichen Bereich mit Landwirtschaft (Ackerbau, Viehzucht und Arabergestüt) und eigener Wasserversorgung dominiert ein kleiner bunter Basar. Eine Karawanserei existiert auch - allerdings mit Pferden. Elitär wird es im Villagerviertel. Zwischen großzügigen Stadtvillen leben hier zahlreiche handelswilligen Villager und warten nur auf Kundschaft. Aber vorsichtig, sie werden gut bewacht.<br/><br/>
+Hoffentlich seid ihr nun neugierig geworden und besucht mal<br/>
+Al Ishmatu - das Herz der Wüste</p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> schlie&szlig;en</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
