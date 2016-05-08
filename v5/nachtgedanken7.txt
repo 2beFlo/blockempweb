@@ -14,7 +14,7 @@ Zum Vergleich: Das ist in etwa so, als wenn ich beim Tante Emma Laden um die Eck
 <p>Im viel gepriesenen „Reallife“ wird man den Leuten das Lügen nicht abgewöhnen können, aber hier? In einem Spiel? Einem Hobby? In einem so kleinen, überschaubaren Universum mit nur einer Hand voll Regeln sollte das doch möglich sein, richtig?<br>
 Richtig! Es gibt doch noch Leute da draußen, die wenigstens in ihrer Freizeitbeschäftigung eine gewisse Ehrlichkeit schätzen und von sich aus auf Cheats verzichten. Und genau die sind bei uns auf Blockempirium willkommen. Der Rest kann bitte auf Reallifeservern spielen.</p>
 <p>-Mulcho</p></div>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> schlie&szlig;en</button>
                         </div>
                     </div>
                 </div>

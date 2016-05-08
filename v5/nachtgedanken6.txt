@@ -33,7 +33,7 @@
 <p>In der Hoffnung etwas Licht ins Dunkel gebracht zu haben, verabschiede ich mich bis zur nächsten Episode, euer Mulcho.</p>
 <p><i>Benutzerhinweis: Wie jeder Schnelltest, so hat auch dieser eine gewisse, wenn auch kaum messbare Fehlerquote. Die Ergebnisse können also mitunter fehlerhaft sein, sollten aber in jedem Fall ausreichen um die gröbste Idiotie zu identifizieren.</i></p>
 </div>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> schlie&szlig;en</button>
                         </div>
                     </div>
                 </div>

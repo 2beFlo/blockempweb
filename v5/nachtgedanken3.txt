@@ -11,7 +11,7 @@
                             <p><strong>Ich halte so etwas für schlechtes Design.</strong></p>
                             <p>Grundversorgung braucht jeder, soviel ist klar, aber warum nicht etwas erschaffen wofür man sich nicht schon in der Planung so sehr schämt das man es besser im Boden verbuddelt? Optisch ansprechend gemachte Felder, Farmen, Ställe, Lagerhäuser etc. sehe ich persönlich viel zu selten. Dabei bieten auch diese Themen egal in welchem Setting man nun baut doch jede Menge Möglichkeiten. Möglichkeiten die sich der Eisberghaus-Eigentümer letztendlich selbst nimmt, indem er potenziell funktionale Gebäude unsichtbar und ausdruckslos in die Erde meiselt, sich erhobenen Hauptes auf die Spitze des Eisbergs begibt und darüber jammert das er „ja jetzt schon alles gemacht hat und alles voll langweilig geworden ist“<br/><br/> … 3 Monate später stolpert ein motivierter Moderator über ein verlassenes Haus in der Wildnis und schaut in den Keller …<br/><br/>Schlechtes Design, just saying!<br/><br/>-Mulcho</p>
     
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> schlie&szlig;en</button>
                         </div>
                     </div>
                 </div>

@@ -9,7 +9,7 @@
 			    <p>Auf unseren Server bezogen bedeutet dies Respekt gegenüber den Regeln nach denen wir spielen und zu deren Einhaltung sich ein jeder verpflichtet hat, Respekt gegenüber euren Mitspielern und v.a. Respekt gegenüber denen die den Laden am Laufen halten. Das gesamte System Blockempirium basiert auf diesen Grundpfeilern, unser Regelwerk ist daher kurz, klar definiert und sollte für jeden erwachsenen Menschen klar ersichtlich unsere Werte wiederspiegeln.</p>
 			    <p>Ich persönlich halte nichts davon jedes auch nur erdenkliche Fehlverhalten explizit in den Serverregeln zu verbieten und mittels Plugins zu zementieren, was konsequenterweise bedeutet:</p>
 			    <p>Sollte es sich wiederholen das einzelne User es auch unter größten Anstrengungen nicht zustande bekommen ihre Streitigkeiten über eine Ansammlung von Blöcken wie denkende Menschen beizulegen, wissentlich unsere Regeln untergraben oder keinerlei Reife und Respekt vermitteln, so habe ich im Gegenzug keinerlei Skrupel den Server großflächig zu entvölkern.<br/><br/>Ihr habt die Wahl, ich respektiere jede Entscheidung.<br/><br/>-Mulcho-</p>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> schlie&szlig;en</button>
                         </div>
                     </div>
                 </div>
