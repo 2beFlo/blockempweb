@@ -509,16 +509,16 @@
             <div class="row">
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/mulcho.png" class="img-responsive img-circle" alt="">
-                        <h4>Mulcho</h4>
-                        <p class="text-muted">Mulcho in Chief</p>
+                        <img src="img/team/dickie.png" class="img-responsive img-circle" alt="">
+                        <h4>DickieH</h4>
+                        <p class="text-muted">Honorary Mulcho in Chief</p>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/dickie.png" class="img-responsive img-circle" alt="">
-                        <h4>DickieH</h4>
-                        <p class="text-muted">Honorary Mulcho in Chief</p>
+                        <img src="img/team/mulcho.png" class="img-responsive img-circle" alt="">
+                        <h4>Mulcho</h4>
+                        <p class="text-muted">Mulcho in Chief</p>
                     </div>
                 </div>
                 <div class="col-sm-4">
