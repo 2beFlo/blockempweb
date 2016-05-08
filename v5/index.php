@@ -560,7 +560,7 @@
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline quicklinks">
-                        <li><a href="impressum.hmtl">Impressum</a>
+                        <li><a href="impressum.html">Impressum</a>
                         </li>
                     </ul>
                 </div>
