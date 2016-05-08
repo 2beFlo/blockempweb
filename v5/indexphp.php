@@ -528,6 +528,13 @@
                         <p class="text-muted">Admin</p>
                     </div>
                 </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/pinzer.png" class="img-responsive img-circle" alt="">
+                        <h4>Dangy</h4>
+                        <p class="text-muted">Moderator</p>
+                    </div>
+                </div>
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
