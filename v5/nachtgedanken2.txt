@@ -2,7 +2,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <!-- Project Details Go Here -->
+                            <!-- Hier beginnt der Inhalt -->
                             <h2>Episode 2 - Minimum</h2>
                             <p>Wie Geld aus Geld geschöpft wird, so wird Wissen auf Wissen erbaut. Wem also die Grundkenntnisse über einen Sachverhalt fehlen, dem wird es kaum gelingen ihn in seiner Gesamtheit zu verstehen. Wer also z.B. nie davon gehört hat das beschriftete Schilder wichtige Informationen bieten können, der wird sich schwer tun eben diese zu erlangen oder sich gar dafür zu interessieren.Beginnt der so mit Unwissen gestrafte dann auch noch Fragen zu stellen deren Antwort er besagten Informationen eigentlich hätte entnehmen sollen, wird er in den Augen der wissenden zu einem Ärgernis. Wie geht man also mit solchen Tieffliegern im Kontext unseres Servers um?</p>
                             <p>Nun während quasi in jedem Fall ein freundlicher User in die Bresche springt mit dem Hinweis doch bitte die Schilder zu lesen, so bin ich persönlich zumindest dazu bereit dem Fragenden (nennen wir ihn im Folgenden einfach einmal „Herbert“)  ein paar Minuten meines Schweigens zu schenken auf das er Erleuchtung auf Holzbrettern findet.</p>

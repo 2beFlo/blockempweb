@@ -2,7 +2,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <!-- Project Details Go Here -->
+                            <!-- Hier beginnt der Inhalt -->
                             <h2>Episode 7 - NoNeed+</h2>
                             <div><p>Überall wird gelogen, betrogen und getrickst. Menschen tun das jeden Tag, seit der Erfindung der ersten Lüge. Für die meisten von uns sind zumindest kleine Lügen etwas absolut alltägliches. Betrug ist eine Strategie die einen im Leben oft genug weiterbringt, entsprechend oft wird von dieser Möglichkeit Gebrauch gemacht. Der Haken: Wo es einen Betrüger gibt, da gibt es einen Betrogenen zu dessen Nachteil die Sache liegt und der dann bestenfalls nicht mehr allzu gut auf den Betrüger zu sprechen ist. Wenn man es also übertreibt und sich dabei erwischen lässt, macht man sich nicht nur unbeliebt, sondern wird auch noch verknackt, kastriert oder gesteinigt, je nach Kulturkreis.</p>
 <p style="text-align: left;">Im Gaming Jargon nennt man den Akt des Betrügens „cheaten“. Und während cheating in Singleplayer Games mittlerweile wohl den allermeisten Leuten ziemlich egal ist (Stichwort Selbstbetrug), so ist die Sachlage in Mehrspielerumgebungen schon empfindlich anders. Spieler erwarten Fairness, wenn sie sich mit anderen messen, (abgesehen von den Cheatern natürlich) und sie erwarten zu Recht, dass der Anbieter der Spielumgebung, in der sie agieren, diese Fairness gewährleistet.</p>

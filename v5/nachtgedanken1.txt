@@ -2,7 +2,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <!-- Project Details Go Here -->
+                            <!-- Hier beginnt der Inhalt -->
                             <h2>Episode 1 - Respekt</h2>
                             <p>Ab 18″ Ist eine Regel die wir auf Blockempirium aufgestellt haben um all unseren Spielern ein besseres Spielerlebnis in reiferer Umgebung zu gewährleisten. Wer das achtzehnte Lebensjahr vollendet hat gilt hierzulande als “erwachsen” was die Grundidee hinter besagter Regel darstellt.</p>
                             <p>Nun ist mir sehr wohl bewusst das man (und das gilt fürs Internet in besonderem Maße) “erwachsenes” Verhalten nicht von einem Moment auf den anderen an den Tag legt nur weil man es geschafft hat 18 Jahre zu überleben, vielmehr geht es hierbei um eine Reihe von Fähigkeiten und Persönlichkeitsmerkmalen die sich in dieser Zeit angesammelt haben sollten. Ich spreche hierbei von Dingen wie Eigenständigkeit, Mündigkeit und vor allem Respekt.</p>

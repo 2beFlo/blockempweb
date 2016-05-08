@@ -2,7 +2,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <!-- Project Details Go Here -->
+                            <!-- Hier beginnt der Inhalt -->
                             <h2>Episode 3 - Vom Eisberg-Effekt</h2>
                             <p>Hurra hurra die neue Map ist da, und ich war sooo gespannt was denn als erstes gebaut werden wird. Ist es ein Vogel? Ist es ein Flugzeug? Nein, es ist … eine Farm. Soweit so gut, auch Farmen können was her machen wenn man die Sache gut verpackt, ist ja immerhin alles neu und so.</p>
                             <p>Ich also direkt mal gesucht und siehe da, eine unterirdische Farm. Der Raum sauber eckig aus dem Berg geschnitten, spärlich beleuchtet und mit feinstem Saatgut ausgelegt. Alles grünt und blüht im eckigen Kasten 40 Block unter der Oberfläche. „Warum denn so unterirdisch?“ frage ich „na damit man es oben nicht sieht, ist doch hässlich!“ – Der Mann ist ein Trendsetter.</p>

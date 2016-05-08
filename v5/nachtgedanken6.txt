@@ -2,7 +2,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <!-- Project Details Go Here -->
+                            <!-- Hier beginnt der Inhalt -->
                             <h2>Episode 6 - Der Kiddie Schnelltest</h2>
                             <div><p>Fragt man einen X-beliebigen Minecrafter, ob er denn eines dieser „Kiddies“ ist, so lautet die Antwort mit an Sicherheit grenzender Wahrscheinlichkeit nein. Der Wahrheitsgehalt dieser Aussage darf jedoch bezweifelt werden, denn irgendwo her müssen die Kiddies ja kommen. Verleugnung ist eines der Kernprobleme denen wir uns bei der Reise zum Quell des Übels stellen müssen, und doch, es gibt Hilfe. Mit dem <b>Kiddie-Schnelltest</b> in sieben einfachen Fragen kannst DU, lieber Leser in wenigen Minuten feststellen ob auch du betroffen bist. Der Test taugt außerdem in begrenztem Maße auch zur Ferndiagnose für deine Freunde. Für maximale Gewissheit sei bitte bei der Beantwortung der Fragen besonders ehrlich, oder ziehe eine/n Vertraute/n hinzu, sicher ist sicher.</p>
 <p><b>Und schon geht’s los:</b></p>
