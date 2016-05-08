@@ -77,6 +77,8 @@
     <header>
         <div class="container">
             <div class="intro-text">
+                <div class="intro-lead-in">&nsp;</div>
+                <div class="intro-lead-in">&nsp;</div>
                 <div class="intro-heading">Impressum</div>
             </div>
         </div>
