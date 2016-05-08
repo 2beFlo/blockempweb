@@ -1,0 +1,21 @@
+<div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Episode 7 - NoNeed+</h2>
+                            <div><p>Überall wird gelogen, betrogen und getrickst. Menschen tun das jeden Tag, seit der Erfindung der ersten Lüge. Für die meisten von uns sind zumindest kleine Lügen etwas absolut alltägliches. Betrug ist eine Strategie die einen im Leben oft genug weiterbringt, entsprechend oft wird von dieser Möglichkeit Gebrauch gemacht. Der Haken: Wo es einen Betrüger gibt, da gibt es einen Betrogenen zu dessen Nachteil die Sache liegt und der dann bestenfalls nicht mehr allzu gut auf den Betrüger zu sprechen ist. Wenn man es also übertreibt und sich dabei erwischen lässt, macht man sich nicht nur unbeliebt, sondern wird auch noch verknackt, kastriert oder gesteinigt, je nach Kulturkreis.</p>
+<p style="text-align: left;">Im Gaming Jargon nennt man den Akt des Betrügens „cheaten“. Und während cheating in Singleplayer Games mittlerweile wohl den allermeisten Leuten ziemlich egal ist (Stichwort Selbstbetrug), so ist die Sachlage in Mehrspielerumgebungen schon empfindlich anders. Spieler erwarten Fairness, wenn sie sich mit anderen messen, (abgesehen von den Cheatern natürlich) und sie erwarten zu Recht, dass der Anbieter der Spielumgebung, in der sie agieren, diese Fairness gewährleistet.</p>
+<p>In dem Versuch jedoch, genau dies zu tun, befinden sich viele Anbieter in einem konstanten Wettrüsten mit den Cheatern. Dabei gilt: Je populärer das Spiel, desto härter der Kampf. Viele Entwickler integrieren daher seit Jahren Anticheat-Software in ihren Spielen, die zur Laufzeit auf Anwenderseite den verwendeten Speicher nach spielfremden Codeschnipseln scannen, das hilft zugegeben ziemlich gut. Diesen „Hightech“-Shit haben wir in Minecraft nicht. Was haben die Serverbetreiber stattdessen? Die wohl dicksten Kanonen in dieser Hinsicht sind Plugins wie Anticheat oder NoCheat+. Heuristikmonster die Serverseitig ungewöhnliche Verhaltensweisen von Spielern zu erkennen versuchen, also z.B. ob jemand zu schnell läuft, oder gar fliegt.</p>
+<p>Das Fliegen (per Flyhack) ist hierbei die Alltagslüge von Minecraft. Schnell gemacht, breit verfügbar und auf den meisten Servern die ich kenne: verboten. Tatsächlich sind Flyhacks sogar SO weit verbreitet, das der generelle Konsens der „Community“ zu sein scheint: „Wenn du nicht gewollt hättest, das ich hier fliege, hättest du nocheat installiert.“<br>
+Zum Vergleich: Das ist in etwa so, als wenn ich beim Tante Emma Laden um die Ecke einen Ziegelstein ins Schaufenster werfe, und Tante Emma danach vorwurfsvoll Frage, warum zum Geier sie kein Panzerglas verwendet.</p>
+<p>Und genau hier liegen die Grenzen von Programmen wie NoCheat+. So gut sie die Auswirkungen von Cheats / Hacks etc. begrenzen können, so sind sie doch absolut machtlos gegen die dahinter stehende Initialblödheit des Steinewerfers.</p>
+<p>Was hilft also wirklich? Einsicht, könnte man sagen. Die bewusste Entscheidung sich an Regeln zu halten, könnte man sagen. Den Anspruch an sich selbst zu stellen, fair zu spielen. Nicht nur aus Rücksicht auf die eigenen Mitspieler, sondern nicht zuletzt auch deshalb, um sich der vom Spiel gestellten Herausforderung zu stellen. Alles Dinge, die eine gewisse Reife erfordern, daher mache ich dem vorwiegend jüngeren Teil der Community auch gar keine Vorwürfe was das angeht.</p>
+<p>Im viel gepriesenen „Reallife“ wird man den Leuten das Lügen nicht abgewöhnen können, aber hier? In einem Spiel? Einem Hobby? In einem so kleinen, überschaubaren Universum mit nur einer Hand voll Regeln sollte das doch möglich sein, richtig?<br>
+Richtig! Es gibt doch noch Leute da draußen, die wenigstens in ihrer Freizeitbeschäftigung eine gewisse Ehrlichkeit schätzen und von sich aus auf Cheats verzichten. Und genau die sind bei uns auf Blockempirium willkommen. Der Rest kann bitte auf Reallifeservern spielen.</p>
+<p>-Mulcho</p></div>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>

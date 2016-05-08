@@ -1,0 +1,16 @@
+<div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Episode 1 - Respekt</h2>
+                            <p>Ab 18″ Ist eine Regel die wir auf Blockempirium aufgestellt haben um all unseren Spielern ein besseres Spielerlebnis in reiferer Umgebung zu gewährleisten. Wer das achtzehnte Lebensjahr vollendet hat gilt hierzulande als “erwachsen” was die Grundidee hinter besagter Regel darstellt.</p>
+                            <p>Nun ist mir sehr wohl bewusst das man (und das gilt fürs Internet in besonderem Maße) “erwachsenes” Verhalten nicht von einem Moment auf den anderen an den Tag legt nur weil man es geschafft hat 18 Jahre zu überleben, vielmehr geht es hierbei um eine Reihe von Fähigkeiten und Persönlichkeitsmerkmalen die sich in dieser Zeit angesammelt haben sollten. Ich spreche hierbei von Dingen wie Eigenständigkeit, Mündigkeit und vor allem Respekt.</p>
+			    <p>Auf unseren Server bezogen bedeutet dies Respekt gegenüber den Regeln nach denen wir spielen und zu deren Einhaltung sich ein jeder verpflichtet hat, Respekt gegenüber euren Mitspielern und v.a. Respekt gegenüber denen die den Laden am Laufen halten. Das gesamte System Blockempirium basiert auf diesen Grundpfeilern, unser Regelwerk ist daher kurz, klar definiert und sollte für jeden erwachsenen Menschen klar ersichtlich unsere Werte wiederspiegeln.</p>
+			    <p>Ich persönlich halte nichts davon jedes auch nur erdenkliche Fehlverhalten explizit in den Serverregeln zu verbieten und mittels Plugins zu zementieren, was konsequenterweise bedeutet:</p>
+			    <p>Sollte es sich wiederholen das einzelne User es auch unter größten Anstrengungen nicht zustande bekommen ihre Streitigkeiten über eine Ansammlung von Blöcken wie denkende Menschen beizulegen, wissentlich unsere Regeln untergraben oder keinerlei Reife und Respekt vermitteln, so habe ich im Gegenzug keinerlei Skrupel den Server großflächig zu entvölkern.<br/><br/>Ihr habt die Wahl, ich respektiere jede Entscheidung.<br/><br/>-Mulcho-</p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>

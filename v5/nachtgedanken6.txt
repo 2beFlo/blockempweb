@@ -1,0 +1,40 @@
+<div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Episode 6 - Der Kiddie Schnelltest</h2>
+                            <div><p>Fragt man einen X-beliebigen Minecrafter, ob er denn eines dieser „Kiddies“ ist, so lautet die Antwort mit an Sicherheit grenzender Wahrscheinlichkeit nein. Der Wahrheitsgehalt dieser Aussage darf jedoch bezweifelt werden, denn irgendwo her müssen die Kiddies ja kommen. Verleugnung ist eines der Kernprobleme denen wir uns bei der Reise zum Quell des Übels stellen müssen, und doch, es gibt Hilfe. Mit dem <b>Kiddie-Schnelltest</b> in sieben einfachen Fragen kannst DU, lieber Leser in wenigen Minuten feststellen ob auch du betroffen bist. Der Test taugt außerdem in begrenztem Maße auch zur Ferndiagnose für deine Freunde. Für maximale Gewissheit sei bitte bei der Beantwortung der Fragen besonders ehrlich, oder ziehe eine/n Vertraute/n hinzu, sicher ist sicher.</p>
+<p><b>Und schon geht’s los:</b></p>
+<p><span style="text-decoration: underline;">Wie alt bist du?</span><br>
+<b><span style="color: #990000;">A</span></b> zwischen 10 und 16 Jahren<br>
+<b><span style="color: #006600;">B</span></b> älter als 16 Jahre</p>
+<p><span style="text-decoration: underline;">Enthält dein Ingamename eines oder mehrere der folgenden Anhängsel: „HD“, „xD“ oder „LP“?</span><br>
+<b><span style="color: #990000;">A</span></b> ja<br>
+<b><span style="color: #006600;">B</span></b> nein</p>
+<p><span style="text-decoration: underline;">Du bist neu auf einem Server, was schreibst du als erstes?</span><br>
+<b><span style="color: #990000;">A</span></b> Ist der Owner da???<br>
+<b><span style="color: #006600;">B</span></b> Gute Tag allerseits</p>
+<p><span style="text-decoration: underline;">Auf deinem neuen Server, was prüfst du zuerst?</span><br>
+<b><span style="color: #990000;">A</span></b> Ob meine Hacks &amp; Mods funktionieren<br>
+<b><span style="color: #006600;">B</span></b> Das Regelwerk des Servers</p>
+<p><span style="text-decoration: underline;">Wie viel Zeit verwendest du auf das Lesen von Schildern und Hinweistexten auf dem Server?</span><br>
+<b><span style="color: #990000;">A</span></b> zwischen 0 und 5 Sekunden<br>
+<b><span style="color: #006600;">B</span></b> länger</p>
+<p><span style="text-decoration: underline;">Ein Teammitglied weist dich auf ein Fehlverhalten deinerseits hin, wie reagierst du?</span><br>
+<b><span style="color: #990000;">A</span></b> Ich stelle mich zunächst dumm und beleidige danach seine Mutter<br>
+<b><span style="color: #006600;">B</span></b> Ich entschuldige mich kurz und stelle sicher, dass es nichtmehr vorkommt</p>
+<p><span style="text-decoration: underline;">Es stellt sich heraus, dass du und dein neuer Server nicht zueinander passen, was jetzt?</span><br>
+<b><span style="color: #990000;">A</span></b> Ich Spam bis sie mich bannen und dann DDoS‘t mein Bruda die Scheisse aus den Husos<br>
+<b><span style="color: #006600;">B</span></b> Ich gehe in Frieden und such mir einen neuen, es gibt ja schließlich genug.</p>
+<p><span style="text-decoration: underline;">Und jetzt die Professionelle Auswertung:</span></p>
+<p>4 Mal oder öfter Antwort <b><span style="color: #990000;">A</span></b>: Du bist ein Kiddie<br>
+4 Mal oder öfter Antwort <b><span style="color: #006600;">B</span></b>: Du bist kein Kiddie</p>
+<p>In der Hoffnung etwas Licht ins Dunkel gebracht zu haben, verabschiede ich mich bis zur nächsten Episode, euer Mulcho.</p>
+<p><i>Benutzerhinweis: Wie jeder Schnelltest, so hat auch dieser eine gewisse, wenn auch kaum messbare Fehlerquote. Die Ergebnisse können also mitunter fehlerhaft sein, sollten aber in jedem Fall ausreichen um die gröbste Idiotie zu identifizieren.</i></p>
+</div>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>

@@ -1,0 +1,28 @@
+<div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h2>Episode 2 - Minimum</h2>
+                            <p>Wie Geld aus Geld geschöpft wird, so wird Wissen auf Wissen erbaut. Wem also die Grundkenntnisse über einen Sachverhalt fehlen, dem wird es kaum gelingen ihn in seiner Gesamtheit zu verstehen. Wer also z.B. nie davon gehört hat das beschriftete Schilder wichtige Informationen bieten können, der wird sich schwer tun eben diese zu erlangen oder sich gar dafür zu interessieren.Beginnt der so mit Unwissen gestrafte dann auch noch Fragen zu stellen deren Antwort er besagten Informationen eigentlich hätte entnehmen sollen, wird er in den Augen der wissenden zu einem Ärgernis. Wie geht man also mit solchen Tieffliegern im Kontext unseres Servers um?</p>
+                            <p>Nun während quasi in jedem Fall ein freundlicher User in die Bresche springt mit dem Hinweis doch bitte die Schilder zu lesen, so bin ich persönlich zumindest dazu bereit dem Fragenden (nennen wir ihn im Folgenden einfach einmal „Herbert“)  ein paar Minuten meines Schweigens zu schenken auf das er Erleuchtung auf Holzbrettern findet.</p>
+			<p>Warum nicht antworten? Kleiner Exkurs:</p>
+			<p>Allgemein kann man sagen das man zu jedweder Handlung die man ausführt, jeder Aufgabe die man angeht sowie jeder Kommunikation die man beginnt einen Standard haben sollte unterhalb dessen es sich schlicht nicht lohnt überhaupt aktiv zu werden. Sollte man sich nun doch einmal dazu herablassen diesen Standard zu unterschreiten endet dies meist mit Frustration, auf jeden Fall bietet sich kein Mehrwert. Diese Grenze kann man empirisch für sich selbst ermitteln.</p>
+			<p>Wenden wir diese Handlungsempfehlung also auf unser fragendes Ärgernis (Herbert) an. Eine häufige und beliebte Frage die uns ein gutes Beispiel bietet ist: „warum kann ich nich abbaun?“ (freilich eine Information die man der FAQ entnehmen könnte oder gar durch eine Sekunde nachdenken erlangt werden kann, denn wer mag schon gern seinen Serverspawn abgebaut haben?) Die Antwort auf diese Frage ist frei verfügbar und schnell mit einer Winzigkeit Eigeninitiative zu finden, unser Herbert ist folglich entweder ignorant, stinkend faul oder schlicht und ergreifend ein wenig dumm. Bedenkt man jede dieser 3 Möglichkeiten, so wird schnell klar warum die wiederholte Beantwortung jener Frage (z.B. für Herberts Geistesgenossen) zu schneller Frustration führt.</p>
+			<p>Die Sache ändert sich nun schlagartig wenn Herbert stetig weitere Fragen ähnlicher Qualität stellt oder schlimmer noch darauf pocht sich seiner Ignoranz/Faulheit/Dummheit mit mehr Respekt zu stellen. Und an genau diesem Punkt passiert etwas Bemerkenswertes:</p>
+			<p>Der Mehrwert der sich mir durch die Eingabe z.B. des /ban Befehls bietet (Ruhe, Harmonie und Gute Laune) übersteigt spontan die Minimalgrenze und ermutigt zum forschen Handeln, was wiederrum diese Episode abrupt beendet.</p>
+			<p><strong>Nachwort:</strong></p>
+			<p>Ich weiß das der Ein oder Andere in den letzten Monaten dem oben beschriebenen Prozess zum Opfer gefallen ist ohne sich der eigentlichen Gründe vollends bewusst zu sein. Für den unwahrscheinlichen Fall das besagte Personen nun diese Zeilen lesen sei gesagt:
+			<ul>
+				<li>Ich hoffe ihr könnt meine Entscheidung zur Verbesserung des allgemeinen Wohlbefindens auf unserem Server nun besser nachvollziehen als damals.
+				</li>
+				<li>Generell bin ich nicht nachtragend, solltet ihr euch trotzdem bei mir entschuldigen wollen könnt ihr das natürlich tun (am besten im Forum)
+				</li>
+			</ul>
+			</p>
+			<p>-Mulcho</p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
