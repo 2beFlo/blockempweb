@@ -492,6 +492,20 @@
                                 </div>
                             </div>
                         </li>
+								<li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/cubes200.png" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Creative Cubes</h4>
+                                    <h4 class="subheading">Unser Konzeptbereich</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Bei uns liegt ein besonderer Fokus auf der Baukunst. Damit ihr jedoch nicht direkt im Survival loslegen müsst, sondern eure Ideen in Ruhe entwicken könnt, stellen wir euch mit dem Creative Cubes einen Konzeptbereich zur Verfügung.</p>
+                                </div>
+                            </div>
+                        </li>
                     </ul>
                 </div>
             </div>
