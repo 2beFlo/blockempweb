@@ -548,7 +548,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; Block Empirium 2011 - 2015</span>
+                    <span class="copyright">Copyright &copy; Block Empirium 2011 - <?php print date('Y');?></span>
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
@@ -560,7 +560,7 @@
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline quicklinks">
-                        <li><a href="impressum.html">Impressum</a>
+                        <li><a href="impressum.php">Impressum</a>
                         </li>
                     </ul>
                 </div>
