@@ -525,35 +525,35 @@
                     <div class="team-member">
                         <img src="img/team/dickie.png" class="img-responsive img-circle" alt="">
                         <h4>DickieH</h4>
-                        <p class="text-muted">Honorary Mulcho in Chief</p>
+                        <p class="text-muted">Administrator</p>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/mulcho.png" class="img-responsive img-circle" alt="">
                         <h4>Mulcho</h4>
-                        <p class="text-muted">Mulcho in Chief</p>
+                        <p class="text-muted">Administrator</p>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/derflo.png" class="img-responsive img-circle" alt="">
                         <h4>derFlo</h4>
-                        <p class="text-muted">Deputy Mulcho for server affairs</p>
+                        <p class="text-muted">Administrator</p>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/pinzer.png" class="img-responsive img-circle" alt="">
                         <h4>MyPinzer</h4>
-                        <p class="text-muted">Deputy Mulcho for some weird stuff</p>
+                        <p class="text-muted">Administrator</p>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/dangy.png" class="img-responsive img-circle" alt="">
                         <h4>Dangy</h4>
-                        <p class="text-muted">Assistant Mulcho for graphics and community affairs</p>
+                        <p class="text-muted">Moderatorin & Grafikerin</p>
                     </div>
                 </div>
             </div>
