@@ -525,7 +525,7 @@
                     <div class="team-member">
                         <img src="img/team/pinzer.png" class="img-responsive img-circle" alt="">
                         <h4>MyPinzer</h4>
-                        <p class="text-muted">Deputy Mulcho for some weird stuff</p>
+                        <p class="text-muted">Deputy Mulcho for some wierd stuff</p>
                     </div>
                 </div>
                 <div class="col-sm-4">
@@ -560,7 +560,9 @@
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline quicklinks">
-                        <li><a href="impressum.html">Impressum</a>
+                        <li><a href="#">Privacy Policy</a>
+                        </li>
+                        <li><a href="#">Terms of Use</a>
                         </li>
                     </ul>
                 </div>
