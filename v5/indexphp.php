@@ -605,21 +605,9 @@ require('jail.txt');
                     </div>
                 </div>
             </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>Project Name</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                            <img class="img-responsive img-centered" src="img/portfolio/treehouse-preview.png" alt="">
-                            <p>Treehouse is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. This is bright and spacious design perfect for people or startup companies looking to showcase their apps or other projects.</p>
-                            <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/treehouse-free-psd-web-template/">FreebiesXpress.com</a>.</p>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                        <?php
+require('soloritur.txt');
+?>   
         </div>
     </div>
 
@@ -632,21 +620,9 @@ require('jail.txt');
                     </div>
                 </div>
             </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>Project Name</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                            <img class="img-responsive img-centered" src="img/portfolio/golden-preview.png" alt="">
-                            <p>Start Bootstrap's Agency theme is based on Golden, a free PSD website template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Golden is a modern and clean one page web template that was made exclusively for Best PSD Freebies. This template has a great portfolio, timeline, and meet your team sections that can be easily modified to fit your needs.</p>
-                            <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/golden-free-one-page-web-template/">FreebiesXpress.com</a>.</p>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <?php
+require('petra.txt');
+?>
         </div>
     </div>
 
@@ -659,21 +635,9 @@ require('jail.txt');
                     </div>
                 </div>
             </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>Project Name</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                            <img class="img-responsive img-centered" src="img/portfolio/escape-preview.png" alt="">
-                            <p>Escape is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Escape is a one page web template that was designed with agencies in mind. This template is ideal for those looking for a simple one page solution to describe your business and offer your services.</p>
-                            <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/escape-one-page-psd-web-template/">FreebiesXpress.com</a>.</p>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                        <?php
+require('tibolat.txt');
+?>
         </div>
     </div>
 
@@ -686,26 +650,14 @@ require('jail.txt');
                     </div>
                 </div>
             </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>Project Name</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                            <img class="img-responsive img-centered" src="img/portfolio/dreams-preview.png" alt="">
-                            <p>Dreams is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Dreams is a modern one page web template designed for almost any purpose. It’s a beautiful template that’s designed with the Bootstrap framework in mind.</p>
-                            <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/dreams-free-one-page-web-template/">FreebiesXpress.com</a>.</p>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                                   <?php
+require('badbergheim.txt');
+?> 
         </div>
     </div>
 
-    <!-- Portfolio Modal 8 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal8" tabindex="-1" role="dialog" aria-hidden="true">
+    <!-- Portfolio Modal 7 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal7" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -713,21 +665,7 @@ require('jail.txt');
                     </div>
                 </div>
             </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>Project Name</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                            <img class="img-responsive img-centered" src="img/portfolio/dreams-preview.png" alt="">
-                            <p>Dreams is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Dreams is a modern one page web template designed for almost any purpose. It’s a beautiful template that’s designed with the Bootstrap framework in mind.</p>
-                            <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/dreams-free-one-page-web-template/">FreebiesXpress.com</a>.</p>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
+					 <?php require('grenzfeste.txt'); ?> 
         </div>
     </div>
     
@@ -740,21 +678,7 @@ require('jail.txt');
                     </div>
                 </div>
             </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>Project Name</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                            <img class="img-responsive img-centered" src="img/portfolio/dreams-preview.png" alt="">
-                            <p>Dreams is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Dreams is a modern one page web template designed for almost any purpose. It’s a beautiful template that’s designed with the Bootstrap framework in mind.</p>
-                            <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/dreams-free-one-page-web-template/">FreebiesXpress.com</a>.</p>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
         </div>
     </div>
     
@@ -767,21 +691,7 @@ require('jail.txt');
                     </div>
                 </div>
             </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>Project Name</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                            <img class="img-responsive img-centered" src="img/portfolio/dreams-preview.png" alt="">
-                            <p>Dreams is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Dreams is a modern one page web template designed for almost any purpose. It’s a beautiful template that’s designed with the Bootstrap framework in mind.</p>
-                            <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/dreams-free-one-page-web-template/">FreebiesXpress.com</a>.</p>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
+					 <?php require('zitadelle.txt'); ?>             
         </div>
     </div>
        <!-- Nachtgedanken 1 -->
@@ -793,22 +703,7 @@ require('jail.txt');
                     </div>
                 </div>
             </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>Episode 1 - Respekt</h2>
-                            <p>Ab 18″ Ist eine Regel die wir auf Blockempirium aufgestellt haben um all unseren Spielern ein besseres Spielerlebnis in reiferer Umgebung zu gewährleisten. Wer das achtzehnte Lebensjahr vollendet hat gilt hierzulande als “erwachsen” was die Grundidee hinter besagter Regel darstellt.</p>
-                            <p>Nun ist mir sehr wohl bewusst das man (und das gilt fürs Internet in besonderem Maße) “erwachsenes” Verhalten nicht von einem Moment auf den anderen an den Tag legt nur weil man es geschafft hat 18 Jahre zu überleben, vielmehr geht es hierbei um eine Reihe von Fähigkeiten und Persönlichkeitsmerkmalen die sich in dieser Zeit angesammelt haben sollten. Ich spreche hierbei von Dingen wie Eigenständigkeit, Mündigkeit und vor allem Respekt.</p>
-			    <p>Auf unseren Server bezogen bedeutet dies Respekt gegenüber den Regeln nach denen wir spielen und zu deren Einhaltung sich ein jeder verpflichtet hat, Respekt gegenüber euren Mitspielern und v.a. Respekt gegenüber denen die den Laden am Laufen halten. Das gesamte System Blockempirium basiert auf diesen Grundpfeilern, unser Regelwerk ist daher kurz, klar definiert und sollte für jeden erwachsenen Menschen klar ersichtlich unsere Werte wiederspiegeln.</p>
-			    <p>Ich persönlich halte nichts davon jedes auch nur erdenkliche Fehlverhalten explizit in den Serverregeln zu verbieten und mittels Plugins zu zementieren, was konsequenterweise bedeutet:</p>
-			    <p>Sollte es sich wiederholen das einzelne User es auch unter größten Anstrengungen nicht zustande bekommen ihre Streitigkeiten über eine Ansammlung von Blöcken wie denkende Menschen beizulegen, wissentlich unsere Regeln untergraben oder keinerlei Reife und Respekt vermitteln, so habe ich im Gegenzug keinerlei Skrupel den Server großflächig zu entvölkern.<br/><br/>Ihr habt die Wahl, ich respektiere jede Entscheidung.<br/><br/>-Mulcho-</p>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            	<?php require('nachtgedanken1.txt') ?>
         </div>
     </div>
 
@@ -821,34 +716,7 @@ require('jail.txt');
                     </div>
                 </div>
             </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>Episode 2 - Minimum</h2>
-                            <p>Wie Geld aus Geld geschöpft wird, so wird Wissen auf Wissen erbaut. Wem also die Grundkenntnisse über einen Sachverhalt fehlen, dem wird es kaum gelingen ihn in seiner Gesamtheit zu verstehen. Wer also z.B. nie davon gehört hat das beschriftete Schilder wichtige Informationen bieten können, der wird sich schwer tun eben diese zu erlangen oder sich gar dafür zu interessieren.Beginnt der so mit Unwissen gestrafte dann auch noch Fragen zu stellen deren Antwort er besagten Informationen eigentlich hätte entnehmen sollen, wird er in den Augen der wissenden zu einem Ärgernis. Wie geht man also mit solchen Tieffliegern im Kontext unseres Servers um?</p>
-                            <p>Nun während quasi in jedem Fall ein freundlicher User in die Bresche springt mit dem Hinweis doch bitte die Schilder zu lesen, so bin ich persönlich zumindest dazu bereit dem Fragenden (nennen wir ihn im Folgenden einfach einmal „Herbert“)  ein paar Minuten meines Schweigens zu schenken auf das er Erleuchtung auf Holzbrettern findet.</p>
-			<p>Warum nicht antworten? Kleiner Exkurs:</p>
-			<p>Allgemein kann man sagen das man zu jedweder Handlung die man ausführt, jeder Aufgabe die man angeht sowie jeder Kommunikation die man beginnt einen Standard haben sollte unterhalb dessen es sich schlicht nicht lohnt überhaupt aktiv zu werden. Sollte man sich nun doch einmal dazu herablassen diesen Standard zu unterschreiten endet dies meist mit Frustration, auf jeden Fall bietet sich kein Mehrwert. Diese Grenze kann man empirisch für sich selbst ermitteln.</p>
-			<p>Wenden wir diese Handlungsempfehlung also auf unser fragendes Ärgernis (Herbert) an. Eine häufige und beliebte Frage die uns ein gutes Beispiel bietet ist: „warum kann ich nich abbaun?“ (freilich eine Information die man der FAQ entnehmen könnte oder gar durch eine Sekunde nachdenken erlangt werden kann, denn wer mag schon gern seinen Serverspawn abgebaut haben?) Die Antwort auf diese Frage ist frei verfügbar und schnell mit einer Winzigkeit Eigeninitiative zu finden, unser Herbert ist folglich entweder ignorant, stinkend faul oder schlicht und ergreifend ein wenig dumm. Bedenkt man jede dieser 3 Möglichkeiten, so wird schnell klar warum die wiederholte Beantwortung jener Frage (z.B. für Herberts Geistesgenossen) zu schneller Frustration führt.</p>
-			<p>Die Sache ändert sich nun schlagartig wenn Herbert stetig weitere Fragen ähnlicher Qualität stellt oder schlimmer noch darauf pocht sich seiner Ignoranz/Faulheit/Dummheit mit mehr Respekt zu stellen. Und an genau diesem Punkt passiert etwas Bemerkenswertes:</p>
-			<p>Der Mehrwert der sich mir durch die Eingabe z.B. des /ban Befehls bietet (Ruhe, Harmonie und Gute Laune) übersteigt spontan die Minimalgrenze und ermutigt zum forschen Handeln, was wiederrum diese Episode abrupt beendet.</p>
-			<p><strong>Nachwort:</strong></p>
-			<p>Ich weiß das der Ein oder Andere in den letzten Monaten dem oben beschriebenen Prozess zum Opfer gefallen ist ohne sich der eigentlichen Gründe vollends bewusst zu sein. Für den unwahrscheinlichen Fall das besagte Personen nun diese Zeilen lesen sei gesagt:
-			<ul>
-				<li>Ich hoffe ihr könnt meine Entscheidung zur Verbesserung des allgemeinen Wohlbefindens auf unserem Server nun besser nachvollziehen als damals.
-				</li>
-				<li>Generell bin ich nicht nachtragend, solltet ihr euch trotzdem bei mir entschuldigen wollen könnt ihr das natürlich tun (am besten im Forum)
-				</li>
-			</ul>
-			</p>
-			<p>-Mulcho</p>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
         </div>
     </div>
 
@@ -861,24 +729,7 @@ require('jail.txt');
                     </div>
                 </div>
             </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>Episode 3 - Vom Eisberg-Effekt</h2>
-                            <p>Hurra hurra die neue Map ist da, und ich war sooo gespannt was denn als erstes gebaut werden wird. Ist es ein Vogel? Ist es ein Flugzeug? Nein, es ist … eine Farm. Soweit so gut, auch Farmen können was her machen wenn man die Sache gut verpackt, ist ja immerhin alles neu und so.</p>
-                            <p>Ich also direkt mal gesucht und siehe da, eine unterirdische Farm. Der Raum sauber eckig aus dem Berg geschnitten, spärlich beleuchtet und mit feinstem Saatgut ausgelegt. Alles grünt und blüht im eckigen Kasten 40 Block unter der Oberfläche. „Warum denn so unterirdisch?“ frage ich „na damit man es oben nicht sieht, ist doch hässlich!“ – Der Mann ist ein Trendsetter.</p>
-                            <p>„Ich brauch ein Feld, ich bau schnell eins unterirdisch“ hört man so oder so ähnlich in den folgenden Tagen nur allzu oft, eingraben scheint DAS Mittel der Wahl wenns mal wieder schnell gehen muss. Und ist die Grundfarm erstmal ausgehoben ist es nur noch ein Katzensprung zum eigenen Eisberghaus!</p>
-                            <p><q>Definition:<br/><br/>Eisberghaus, das ist wenn der „Keller“ zum entsprechenden Haus ein Vielfaches der Nutzfläche des selbigen einnimmt, quasi wie eine Gartenlaube über einem Atombunker. Das typische Eisberghaus steht in 80% fertigem Zustand, ungenutzt über einem unscheinbaren Loch im Berg, das als Zugang zu einem unterirdischen Geschwür aus Gängen und Kammern fungiert, welche letztendlich alle Notwendigkeiten eines Spielerdaseins abdecken."</q></p>
-                            <p><strong>Ich halte so etwas für schlechtes Design.</strong></p>
-                            <p>Grundversorgung braucht jeder, soviel ist klar, aber warum nicht etwas erschaffen wofür man sich nicht schon in der Planung so sehr schämt das man es besser im Boden verbuddelt? Optisch ansprechend gemachte Felder, Farmen, Ställe, Lagerhäuser etc. sehe ich persönlich viel zu selten. Dabei bieten auch diese Themen egal in welchem Setting man nun baut doch jede Menge Möglichkeiten. Möglichkeiten die sich der Eisberghaus-Eigentümer letztendlich selbst nimmt, indem er potenziell funktionale Gebäude unsichtbar und ausdruckslos in die Erde meiselt, sich erhobenen Hauptes auf die Spitze des Eisbergs begibt und darüber jammert das er „ja jetzt schon alles gemacht hat und alles voll langweilig geworden ist“<br/><br/> … 3 Monate später stolpert ein motivierter Moderator über ein verlassenes Haus in der Wildnis und schaut in den Keller …<br/><br/>Schlechtes Design, just saying!<br/><br/>-Mulcho</p>
-    
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            	<?php require('nachtgedanken3.txt') ?>
         </div>
     </div>
 
@@ -891,18 +742,7 @@ require('jail.txt');
                     </div>
                 </div>
             </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>Episode 4 - Der Serververbesserer</h2>
-                            <p>Das Tolle an der Minecraft Spielerschaft ist ja, dass sie so vielfältig ist! Tatsächlich gibt es ja so viele unterschiedliche Arten von Minecraftern, da möchte man glatt 80% in die Tonne treten, so viele gibt es!<br/><br/>Dabei zweifellos ganz hoch im Ranking: der Serververbesserer!<br/><br/>Der Serververbesserer ist ein Profi seines Fachs, er hat sowohl DEN Durchblick, als auch DEN Plan und bietet ahnungslosen Serverbesitzern sein Know-How selbstlos an. Mit der Tür ins Haus zu fallen, davon hält der Serververbesserer gar nichts, eher erschlägt er den Hausbesitzer mit selbiger oder reisst gleich die ganze Bude ab, ist eh alles Scheiße, weiß der Profi!<br/><br/>Vor wenigen Tagen hatte ich wieder einmal das Vergnügen. Eine wahre Kompetenzgranate schlägt am Spawn auf, schon der Name lässt großes erahnen, für diesen Artikel nenne ich ihn 1337_Z0MBIE_SLAY_M4ST3R (der Fachmann erkennt, das ist nicht sein richtiger Name, aber er vermittelt einen ähnlichen Eindruck)<br/><br/>Kleiner Exkurs bevor es weitergeht, für alle denen unser Server nicht so geläufig ist:<br/><br/>Blockempirium ist ein kleiner Server und ist seit jeher darauf ausgelegt, es auch zu bleiben. Wir spielen Survival und sind darauf bedacht vor allem Bauprojekte und Ideen mit unserer kleinen, aber ausgesuchten Community umzusetzen und in jener überschaubaren Runde Spaß zu haben. Bei uns bewirbt man sich und bevor man übereifrig losprojektiert, erstellt man Konzepte. Kein expliziter Fokus auf PvP, keine 500 Slots, keine kommerziellen Ambitionen, das sind Infos die man sich durch überfliegen unserer Website leicht beschaffen kann.<br/><br/>Der folgende Dialog gibt nicht wortwörtlich, aber dennoch sinngemäß, das reale Gespräch wieder:<br/><br/>1337_Z0MBIE_SLAY_M4ST3R loggt also ein: „schöner Server“<br/><br/>Ich: “hallo und danke“<br/><br/>1337_Z0MBIE_SLAY_M4ST3R:„hey Mulcho, wollen wir eine PvP Map bauen?“<br/><br/>Ich:“Nein danke, hab noch genug zu tun und eine PvP Map würde bei uns eh kaum genutzt“<br/><br/>1337_Z0MBIE_SLAY_M4ST3R: „Fakt: PvP ist der beliebteste Minecraft Spielmodus!“<br/><br/>Ich wusste bis dahin noch nicht einmal das PvP überhaupt ein offizieller Spielmodus ist, aber man lernt ja nie aus<br/><br/>Ich:“Fakt: das hier ist kein PvP Server!“<br/><br/>1337_Z0MBIE_SLAY_M4ST3R:„Aber dann bekommt ihr viel mehr User“<br/><br/>*Zonk* zweites Foul<br/><br/>Ich:“Fakt: das hier ist ein kleiner Server, und das ist er mit Absicht“<br/><br/>1337_Z0MBIE_SLAY_M4ST3R:„Wenn ich mich hier so umsehe ist hier niemand, mir wär das zu öde, gar kein Spielgefühl“<br/><br/>Ich:“Na dann Captain Oberschlau, hast du denn etwas vorzuweisen? Nur für den Eindruck was man so erwarten kann wenn du loslegst?“<br/><br/>1337_Z0MBIE_SLAY_M4ST3R:“Yo klar, ich hab doch schon für [MistkrampenPvPServer#1] und [NoNamePvPServer#2] gebaut, gugg hier“<br/><br/>Youtube-Link fliegt, zu sehen ist eine gnadenlos übershaderte Collage mit punktsymmetrisch erbautem Server-Spawn-Hub aus Quartz und Clay, garniert mit jeder Menge Hick-Hack Sequenzen aus dem mutmaßlich beliebtesten Spielmodus in Minecraft. Die urheberrechtlich geschützte Musik gibt’s gratis mit dazu.<br/><br/>Ich:“Nur mal so, was hast du denn schon über unseren Server in Erfahrung gebracht, bevor du so ein Angebot unterbreitest?“<br/><br/>1337_Z0MBIE_SLAY_M4ST3R:“Nix, wieso? (Und jetzt wird er ungeduldig) willst du jetzt meine Hilfe oder nicht?”<br/><br/>Ich hab Gute-Laune-Samstagnachmittag, also erzähl ich ihm etwas über unser Konzept, unsere Werte, wie das hier läuft, wenn einer eine Idee hat und wie – *STOP* nun zumindest hätte ich das getan, wenn da nicht 1337_Z0MBIE_SLAY_M4ST3R scharf interveniert hätte<br/><br/>„Ach so ja, na genau das hatte ich doch auch vor“<br/><br/>Na das hättest du doch gleich sagen können. Aber lass mich ruhig nich ausreden, du hast ja bereits vorher wieviel recherchiert? Depp. Kurz bin ich noch am Überlegen, was man in so einer Situation am diplomatischsten antwortet, aber Zeit ist Geld und andere Server brauchen sicher auch solche Luxusdienstleister.<br/><br/>1337_Z0MBIE_SLAY_M4ST3R:“Ja kommen wir nu mal zum Punkt, willst du meine Hilfe jetzt oder nicht? Ja oder Nein?“<br/><br/>Ich:“Nein“<br/><br/>1337_Z0MBIE_SLAY_M4ST3R has left the Building – Und dann hebt er ab und völlig losgelöst von der Eeeerde …<br/><br/>Die Verbesserung ist abgewendet, mein Samstag geht weiter und alles läuft wie immer auf Blockemp. Was bleibt zum Schluss? Ach ja!<br/><br/>Ein offener Brief an die Serververbesserer da draussen:<br/><br/>Liebe Serververbesserer & lieber 1337_Z0MBIE_SLAY_M4ST3R im Besonderen,<br/><br/>wir alle lieben motivierte und fleißige Mitarbeiter auf unseren Servern, ohne die geht’s nicht. Wir mögen Leute mit Ideen und Verbesserungsvorschlägen. Und noch viel lieber mögen wir Leute, die sich vorher informieren, für was wir stehen, bevor sich diese hirnrissige Idee in ihren Köpfen formiert, die darauf abzielt uns unsere Identität zu nehmen. Server haben Themen, Regeln und Konzepte, an denen sie sich weiter entwickeln und aufgrund derer sich Spieler entscheiden sollten, ob ihnen der Server zusagt oder nicht. Es kann niemals Sinn und Zweck einer „Verbesserung“ sein, ein erfolgreiches (wenn auch wie in unserem Falle Nischen-) Modell vollkommen umzuwerfen, nur weil man anderswo etwas komplett anderes hat funktionieren sehen.<br/><br/>Der Grund, warum die größten Server & Servernetzwerke mit mehreren tausend Spielern PvP Server sind, liegt unter anderem darin begründet, dass der Horizont der allermeisten Minecrafter nicht über das Errichten einer schäbigen Monoholzlaube hinweg reicht. Nicht ohne Grund BEZAHLEN diese Netzwerke dafür, dass irgendeiner aus der wirklich begabten Minderheit ihnen, um Gottes willen Qualitäts-Content bereitstellt, auf dem sich die Horden ihrer PvP Zombies die Köpfe einschlagen können. Eben nicht jedermanns Sache.<br/><br/>Also liebe Serververbesserer, lest doch bitte das nächste Mal bevor ihr einen Server beglückt, kurz die Regeln und vielleicht auch ganz kurz die Beschreibung. Wenn ihr dann immer noch überzeugt seid helfen zu müssen, denkt bitte vorher darüber nach, wie ihr dies zu tun gedenkt. („Hulk smash, Hulk PvP bauen!“ Ist nicht genug) Und schließlich, habt ein wenig Geduld, schaut vielleicht auch mal im TS vorbei, da diskutiert es sich leichter.<br/><br/>Mit freundlichen Grüßen<br/><br/>-Mulcho</p>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            	<?php require('nachtgedanken4.txt') ?>
         </div>
     </div>
 	 
@@ -915,18 +755,7 @@ require('jail.txt');
                     </div>
                 </div>
             </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>Episode 5 - Sucht ihr noch Developa?</h2>
-                            <p>Zum Zeitpunkt dieses Schreibens ist Blockempirium knappe 3 Jahre alt. Während der ersten zwei Jahre haben wir in den Bewerberinformationen stets ein Gesuch für einen Pluginschreiberling vermerkt, zu Beginn dieses Jahres ist dieser Eintrag jedoch verschwunden.<br/><br/>Warum?<br/><br/>Nun zum einen habe ich letztendlich die Dev-Sparte selbst übernommen und die Entwicklung einiger wirklich interessanter Plugins persönlich vorangetrieben, zum andern schimpft sich anscheinend neuerdings jeder Bob der ein X-beliebiges Plugin auch nur konfigurieren kann „Developer“. (Kiddie-Slang: “Developa”)<br/><br/>Nun gibt es auf diesem Feld ja durchaus noch unterschiede, und all jenen die es wirklich versuchen, aber schlicht nicht noch soweit sind ein vernünftiges und sinnvolles stück Software zu produzieren sei gesagt: Versucht es weiter, lernt aus Fehlern und von anderen Entwicklern oder Tutorials. Bevor ihr jedoch etwas veröffentlicht (und das wird vermutlich auf der offiziellen Bukkit Seite sein) stellt doch bitte um Gottes willen sicher, dass euer Plugin einen Bereich abdeckt den nicht schon 50 andere vor euch ausreichend bedient haben. Oft helft ihr der Community mit dem nicht veröffentlichen trivialer Software mehr, als mit der 10. Auflage von „Mein neues Plugin das auch /ban kann“. Originelle Techniken und Konzepte gibt es nicht alle Tage, Eigenständigkeit jedoch ist der einzige Grund wegen dem sich jemand für euer Programm, anstatt irgendein anderes entscheiden wird.<br/><br/>Und jetzt zu all jenen die meinen unter Vorspiegelung falscher Tatsachen, als „Developa“ einen Rang oder besondere Rechte auf irgendeinem Server zu bekommen. Schlimmer noch: als vermeintliche Arbeitsprobe ein gestohlenes Plugin von der Bukkit dev Seite verwenden und unter eigenem Namen weiter verbreiten: IHR SEID ABSCHAUM !<br/><br/>In einer besseren Welt als dieser, müsste man Volldeppen wie euch die Eier verknoten und dazu verknacken euer Leben lang auf miesen Reallife-Server-Absteigen zu zocken. Es ist schwer zu beschreiben auf wieviele Arten euer Verhalten gegen den guten Geist der Community und OpenSource Projekten an sich geht. Kein Serverbesitzer wird gern angelogen, aber falls ihr doch meint mit dieser armseligen Masche ankriechen zu müssen, macht es doch bitte nicht SO offensichtlich. Ändert was an der Programmstruktur, schiebt ein wenig Malware ein, seid kreativ, es gibt so viele Möglichkeiten besonders in diesem Bereich!<br/><br/>Aber vor allem, werft nicht mit dem Begriff „Developa“ um euch, denn die sucht wirklich niemand.<br/><br/>-Mulcho<br/><br/>PS: Den nächsten Horst der mir erklären will das er fürs Plugin schreiben nicht „Java“ sondern „CMD“ benutzt, kick ich eigenhändig solange vom Server bis die ganze Blödheit rausgeeitert ist.</p>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            	<?php require('nachtgedanken5.txt') ?>
         </div>
     </div>
 	 
@@ -939,46 +768,7 @@ require('jail.txt');
                     </div>
                 </div>
             </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>Episode 6 - Der Kiddie Schnelltest</h2>
-                            <div><p>Fragt man einen X-beliebigen Minecrafter, ob er denn eines dieser „Kiddies“ ist, so lautet die Antwort mit an Sicherheit grenzender Wahrscheinlichkeit nein. Der Wahrheitsgehalt dieser Aussage darf jedoch bezweifelt werden, denn irgendwo her müssen die Kiddies ja kommen. Verleugnung ist eines der Kernprobleme denen wir uns bei der Reise zum Quell des Übels stellen müssen, und doch, es gibt Hilfe. Mit dem <b>Kiddie-Schnelltest</b> in sieben einfachen Fragen kannst DU, lieber Leser in wenigen Minuten feststellen ob auch du betroffen bist. Der Test taugt außerdem in begrenztem Maße auch zur Ferndiagnose für deine Freunde. Für maximale Gewissheit sei bitte bei der Beantwortung der Fragen besonders ehrlich, oder ziehe eine/n Vertraute/n hinzu, sicher ist sicher.</p>
-<p><b>Und schon geht’s los:</b></p>
-<p><span style="text-decoration: underline;">Wie alt bist du?</span><br>
-<b><span style="color: #990000;">A</span></b> zwischen 10 und 16 Jahren<br>
-<b><span style="color: #006600;">B</span></b> älter als 16 Jahre</p>
-<p><span style="text-decoration: underline;">Enthält dein Ingamename eines oder mehrere der folgenden Anhängsel: „HD“, „xD“ oder „LP“?</span><br>
-<b><span style="color: #990000;">A</span></b> ja<br>
-<b><span style="color: #006600;">B</span></b> nein</p>
-<p><span style="text-decoration: underline;">Du bist neu auf einem Server, was schreibst du als erstes?</span><br>
-<b><span style="color: #990000;">A</span></b> Ist der Owner da???<br>
-<b><span style="color: #006600;">B</span></b> Gute Tag allerseits</p>
-<p><span style="text-decoration: underline;">Auf deinem neuen Server, was prüfst du zuerst?</span><br>
-<b><span style="color: #990000;">A</span></b> Ob meine Hacks &amp; Mods funktionieren<br>
-<b><span style="color: #006600;">B</span></b> Das Regelwerk des Servers</p>
-<p><span style="text-decoration: underline;">Wie viel Zeit verwendest du auf das Lesen von Schildern und Hinweistexten auf dem Server?</span><br>
-<b><span style="color: #990000;">A</span></b> zwischen 0 und 5 Sekunden<br>
-<b><span style="color: #006600;">B</span></b> länger</p>
-<p><span style="text-decoration: underline;">Ein Teammitglied weist dich auf ein Fehlverhalten deinerseits hin, wie reagierst du?</span><br>
-<b><span style="color: #990000;">A</span></b> Ich stelle mich zunächst dumm und beleidige danach seine Mutter<br>
-<b><span style="color: #006600;">B</span></b> Ich entschuldige mich kurz und stelle sicher, dass es nichtmehr vorkommt</p>
-<p><span style="text-decoration: underline;">Es stellt sich heraus, dass du und dein neuer Server nicht zueinander passen, was jetzt?</span><br>
-<b><span style="color: #990000;">A</span></b> Ich Spam bis sie mich bannen und dann DDoS‘t mein Bruda die Scheisse aus den Husos<br>
-<b><span style="color: #006600;">B</span></b> Ich gehe in Frieden und such mir einen neuen, es gibt ja schließlich genug.</p>
-<p><span style="text-decoration: underline;">Und jetzt die Professionelle Auswertung:</span></p>
-<p>4 Mal oder öfter Antwort <b><span style="color: #990000;">A</span></b>: Du bist ein Kiddie<br>
-4 Mal oder öfter Antwort <b><span style="color: #006600;">B</span></b>: Du bist kein Kiddie</p>
-<p>In der Hoffnung etwas Licht ins Dunkel gebracht zu haben, verabschiede ich mich bis zur nächsten Episode, euer Mulcho.</p>
-<p><i>Benutzerhinweis: Wie jeder Schnelltest, so hat auch dieser eine gewisse, wenn auch kaum messbare Fehlerquote. Die Ergebnisse können also mitunter fehlerhaft sein, sollten aber in jedem Fall ausreichen um die gröbste Idiotie zu identifizieren.</i></p>
-</div>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            	<?php require('nachtgedanken6.txt') ?>
         </div>
     </div>
 
@@ -991,27 +781,7 @@ require('jail.txt');
                     </div>
                 </div>
             </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <!-- Project Details Go Here -->
-                            <h2>Episode 7 - NoNeed+</h2>
-                            <div><p>Überall wird gelogen, betrogen und getrickst. Menschen tun das jeden Tag, seit der Erfindung der ersten Lüge. Für die meisten von uns sind zumindest kleine Lügen etwas absolut alltägliches. Betrug ist eine Strategie die einen im Leben oft genug weiterbringt, entsprechend oft wird von dieser Möglichkeit Gebrauch gemacht. Der Haken: Wo es einen Betrüger gibt, da gibt es einen Betrogenen zu dessen Nachteil die Sache liegt und der dann bestenfalls nicht mehr allzu gut auf den Betrüger zu sprechen ist. Wenn man es also übertreibt und sich dabei erwischen lässt, macht man sich nicht nur unbeliebt, sondern wird auch noch verknackt, kastriert oder gesteinigt, je nach Kulturkreis.</p>
-<p style="text-align: left;">Im Gaming Jargon nennt man den Akt des Betrügens „cheaten“. Und während cheating in Singleplayer Games mittlerweile wohl den allermeisten Leuten ziemlich egal ist (Stichwort Selbstbetrug), so ist die Sachlage in Mehrspielerumgebungen schon empfindlich anders. Spieler erwarten Fairness, wenn sie sich mit anderen messen, (abgesehen von den Cheatern natürlich) und sie erwarten zu Recht, dass der Anbieter der Spielumgebung, in der sie agieren, diese Fairness gewährleistet.</p>
-<p>In dem Versuch jedoch, genau dies zu tun, befinden sich viele Anbieter in einem konstanten Wettrüsten mit den Cheatern. Dabei gilt: Je populärer das Spiel, desto härter der Kampf. Viele Entwickler integrieren daher seit Jahren Anticheat-Software in ihren Spielen, die zur Laufzeit auf Anwenderseite den verwendeten Speicher nach spielfremden Codeschnipseln scannen, das hilft zugegeben ziemlich gut. Diesen „Hightech“-Shit haben wir in Minecraft nicht. Was haben die Serverbetreiber stattdessen? Die wohl dicksten Kanonen in dieser Hinsicht sind Plugins wie Anticheat oder NoCheat+. Heuristikmonster die Serverseitig ungewöhnliche Verhaltensweisen von Spielern zu erkennen versuchen, also z.B. ob jemand zu schnell läuft, oder gar fliegt.</p>
-<p>Das Fliegen (per Flyhack) ist hierbei die Alltagslüge von Minecraft. Schnell gemacht, breit verfügbar und auf den meisten Servern die ich kenne: verboten. Tatsächlich sind Flyhacks sogar SO weit verbreitet, das der generelle Konsens der „Community“ zu sein scheint: „Wenn du nicht gewollt hättest, das ich hier fliege, hättest du nocheat installiert.“<br>
-Zum Vergleich: Das ist in etwa so, als wenn ich beim Tante Emma Laden um die Ecke einen Ziegelstein ins Schaufenster werfe, und Tante Emma danach vorwurfsvoll Frage, warum zum Geier sie kein Panzerglas verwendet.</p>
-<p>Und genau hier liegen die Grenzen von Programmen wie NoCheat+. So gut sie die Auswirkungen von Cheats / Hacks etc. begrenzen können, so sind sie doch absolut machtlos gegen die dahinter stehende Initialblödheit des Steinewerfers.</p>
-<p>Was hilft also wirklich? Einsicht, könnte man sagen. Die bewusste Entscheidung sich an Regeln zu halten, könnte man sagen. Den Anspruch an sich selbst zu stellen, fair zu spielen. Nicht nur aus Rücksicht auf die eigenen Mitspieler, sondern nicht zuletzt auch deshalb, um sich der vom Spiel gestellten Herausforderung zu stellen. Alles Dinge, die eine gewisse Reife erfordern, daher mache ich dem vorwiegend jüngeren Teil der Community auch gar keine Vorwürfe was das angeht.</p>
-<p>Im viel gepriesenen „Reallife“ wird man den Leuten das Lügen nicht abgewöhnen können, aber hier? In einem Spiel? Einem Hobby? In einem so kleinen, überschaubaren Universum mit nur einer Hand voll Regeln sollte das doch möglich sein, richtig?<br>
-Richtig! Es gibt doch noch Leute da draußen, die wenigstens in ihrer Freizeitbeschäftigung eine gewisse Ehrlichkeit schätzen und von sich aus auf Cheats verzichten. Und genau die sind bei uns auf Blockempirium willkommen. Der Rest kann bitte auf Reallifeservern spielen.</p>
-<p>-Mulcho</p></div>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            	<?php require('nachtgedanken7.txt') ?>
         </div>
     </div>
 
