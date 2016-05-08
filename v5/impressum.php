@@ -81,6 +81,8 @@
                 <div class="intro-heading">Impressum</div>
                 <br/>
                 <br/>
+                <br/>
+                <br/>
             </div>
         </div>
     </header>
