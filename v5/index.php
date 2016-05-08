@@ -169,7 +169,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>BlockEmp County Jail</h4>
-                        <p class="text-muted">Unser Server-Gefängniss</p>
+                        <p class="text-muted">Unser Servergefängnis</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -430,7 +430,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Gut zu wissen</h2>
-                    <h3 class="section-subheading text-muted">Was k&ouml;nnen wir dir sonst noch bieten?.</h3>
+                    <h3 class="section-subheading text-muted">Was k&ouml;nnen wir dir sonst noch bieten?</h3>
                 </div>
             </div>
             <div class="row">
@@ -446,7 +446,7 @@
                                     <h4 class="subheading">Zentraler Hub am Spawn</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Die Portalhalle ist quasi das Herz unseres Spawn. Von hieraus kommst du an alle für dich wichtigen Orte des Servers.</p>
+                                    <p class="text-muted">Die Portalhalle ist das Herz unseres Spawn. Von hieraus kommst du an alle für dich wichtigen Orte des Servers.</p>
                                 </div>
                             </div>
                         </li>
@@ -456,11 +456,11 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>Handelspavilion</h4>
+                                    <h4>Handelspavillon</h4>
                                     <h4 class="subheading">Alles was das Herz begehrt</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Der Handelspavilion ist Quasi der Supermarkt des Servers. Eier verkaufen? Geht! Blöcke kaufen auch. Und dann gibt es da auch noch die Vending Maschines...</p>
+                                    <p class="text-muted">Der Handelspavilion ist der Supermarkt des Servers. Eier verkaufen? Geht! Blöcke kaufen auch. Und dann gibt es da auch noch die Vending Maschines...</p>
                                 </div>
                             </div>
                         </li>
@@ -484,8 +484,8 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>Die Mienenkolonie</h4>
-                                    <h4 class="subheading">Unser Freibaugebient</h4>
+                                    <h4>Die Minenkolonie</h4>
+                                    <h4 class="subheading">Unser Freibaugebiet</h4>
                                 </div>
                                 <div class="timeline-body">
                                     <p class="text-muted">Die Minenkolonie ist der Startpunkt für alle neuen User auf dem Server. Hier baust du dein erstes Haus und deine Basis für alle weiteren Projekte.</p>
