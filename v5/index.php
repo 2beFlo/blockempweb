@@ -289,7 +289,7 @@
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-cog fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Eigene Plugins</h4>
+                    <h4 class="service-heading">Innovative Plugins</h4>
                     <p class="text-muted">Mit hausgemachten Plugins gelingt es uns in unserer Welt für eine besondere Atmosphäre zu sorgen. Vom Flugmeister über unser Gewinnspiel bis hin zum "Art Deko"-Plugin gibt es nichts, was wir nicht haben.</p>
                 </div>
                 <div class="col-md-4">
@@ -305,7 +305,7 @@
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-university fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Geobener Baustil</h4>
+                    <h4 class="service-heading">Gehobener Baustil</h4>
                     <p class="text-muted">Mit zahlreichen Orten, Flugmeisterlinien und anderen Sehenswürdigkeiten kann es auf unserem Server gerade in den ersten Wochen schonmal unübersichtlich werden. Unsere Livemap schafft da Abilfe und bietet euch eine Übersicht aller besonderen Orte & aller Flugmeisterlinien auf dem Server.</p>
                 </div>
             </div>
