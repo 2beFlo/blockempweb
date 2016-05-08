@@ -79,7 +79,8 @@
             <div class="intro-text">
                 <div class="intro-lead-in">&nbsp;</div>
                 <div class="intro-heading">Impressum</div>
-                <div class="intro-lead-in">&nbsp;</div>
+                <br/>
+                <br/>
             </div>
         </div>
     </header>
