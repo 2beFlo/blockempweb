@@ -511,28 +511,28 @@
                     <div class="team-member">
                         <img src="img/team/mulcho.png" class="img-responsive img-circle" alt="">
                         <h4>Mulcho</h4>
-                        <p class="text-muted">Admin</p>
+                        <p class="text-muted">Mulcho in Chief</p>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/derflo.png" class="img-responsive img-circle" alt="">
                         <h4>derFlo</h4>
-                        <p class="text-muted">Admin</p>
+                        <p class="text-muted">Deputy Mulcho for server affairs</p>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/pinzer.png" class="img-responsive img-circle" alt="">
                         <h4>MyPinzer</h4>
-                        <p class="text-muted">Admin</p>
+                        <p class="text-muted">Deputy Mulcho for some wierd stuff</p>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/pinzer.png" class="img-responsive img-circle" alt="">
+                        <img src="img/team/dangy.png" class="img-responsive img-circle" alt="">
                         <h4>Dangy</h4>
-                        <p class="text-muted">Moderator</p>
+                        <p class="text-muted">Assistant Mulcho for graphics and community affairs</p>
                     </div>
                 </div>
             </div>
