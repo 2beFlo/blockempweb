@@ -19,27 +19,26 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#services">Serverdaten</a>
+                        <a class="page-scroll" href="index.php#services">Serverdaten</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#portfolio">Projekte</a>
+                        <a class="page-scroll" href="index.php#portfolio">Projekte</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#detail">Besonderheiten</a>
+                        <a class="page-scroll" href="index.php#detail">Besonderheiten</a>
                     </li>
 		    			  <li>
-                        <a class="page-scroll" href="#nachtgedanken">Nachtgedanken</a>
+                        <a class="page-scroll" href="index.php#nachtgedanken">Nachtgedanken</a>
                     </li>
     		    		  <li>
-                        <a class="page-scroll" href="#about">Gut zu wissen</a>
+                        <a class="page-scroll" href="index.php#about">Gut zu wissen</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#team">Team</a>
+                        <a class="page-scroll" href="index.php#team">Team</a>
                     </li>
-
-		    <li>
-			<a class="page-scroll" href="forum">Forum</a>
-		    </li>
+		    			  <li>
+								<a class="page-scroll" href="forum">Forum</a>
+		    			  </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
