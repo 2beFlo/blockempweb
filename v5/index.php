@@ -589,7 +589,7 @@
         </div>
     </footer>
 
-<?php require(content.php) ?>
+<?php require('content.php'); ?>
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
