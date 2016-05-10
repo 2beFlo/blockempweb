@@ -30,49 +30,7 @@
 </head>
 
 <body id="page-top" class="index">
-    <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="container">
-            <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand page-scroll" href="index.php">Block Empirium</a>
-            </div>
-
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="index.php#services">Serverdaten</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="index.php#portfolio">Projekte</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="index.php#detail">Besonderheiten</a>
-                    </li>
-		    			  <li>
-                        <a class="page-scroll" href="index.php#nachtgedanken">Nachtgedanken</a>
-                    </li>
-    		    		  <li>
-                        <a class="page-scroll" href="index.php#about">Gut zu wissen</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="index.php#team">Team</a>
-                    </li>
-
-		    <li>
-			<a class="page-scroll" href="forum">Forum</a>
-		    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
+   <?php require('navigation.php'); ?>
 
     <header>
         <div class="container">
@@ -112,39 +70,8 @@ Die Betreiber*innen distanzieren sich ferner von allen direkt oder indirekt mit 
             </div>
     </section>
 
-     <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; Block Empirium 2011 - <?php print date('Y');?></span>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline social-buttons">
-                        <li><a href="https://minecraft-server.eu/server/index/6393/block_empirium"><i class="fa fa-th-list"></i></a>
-                        </li>
-                        <li><a href="https://www.facebook.com/BlockEmpirium/"><i class="fa fa-facebook"></i></a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-md-4">
-                    <ul class="list-inline quicklinks">
-                        <li><a href="impressum.html">Impressum</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </footer>
-
-    <script src="js/jquery.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-    <script src="js/classie.js"></script>
-    <script src="js/cbpAnimatedHeader.js"></script>
-    <script src="js/jqBootstrapValidation.js"></script>
-    <script src="js/contact_me.js"></script>
-    <script src="js/agency.js"></script>
-
+<?php require('footer.php'); ?>
+<?php require('scripts.php'); ?>
 </body>
 
 </html>
