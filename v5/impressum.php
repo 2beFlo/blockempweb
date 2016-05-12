@@ -60,7 +60,7 @@ info@blockempirium.de</p>
 <h5>Allgemeine Hinweis</h5>
 <p>Das Block Empirium und seine Betreiber*innen (fortan Betreiber*innen genannt) stehen in keinerlei Verbindung zur Mojang AB oder anderen mit der Mojang AB verbundenen Unternehmen oder Personen. Die Mojang AB übernimmt entsprechend keine Haftung für die durch die Betreiber*innen bereitgestellten Angebote.</p>
 <br/>
-Die Betreiber*innen distanzieren sich ferner von allen direkt oder indirekt mit dem Online-Angebot von Eldercraft und allen damit direkt oder indierekt verbundenen Plattformen und Personen. Zudem erklären die Betreiber*innen, dass sie in keinerlei Verbindung zu den direkt oder indirekt mit Eldercraft verbundenen Socialmedia-Profilen stehen. Gleiches gilt für die Anbieter*innen dieser Plattformen.
+Die Betreiber*innen distanzieren sich ferner von allen direkt oder indirekt mit dem Online-Angebot von Eldercraft.de und allen damit direkt oder indierekt verbundenen Plattformen und Personen. Zudem erklären die Betreiber*innen, dass sie in keinerlei Verbindung zu den direkt oder indirekt mit Eldercraft verbundenen Socialmedia-Profilen stehen. Gleiches gilt für die Anbieter*innen dieser Plattformen.
 <br/>
 <br/>
 <h5>Haftungsausschluss (Disclaimer)</h5>

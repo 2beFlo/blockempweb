@@ -50,7 +50,7 @@
     </header>
 
     <!-- Services Section -->
-    <section id="services">
+    <section id="serverdaten">
     <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -87,7 +87,7 @@
 		</section>
 		      
     <!-- Portfolio Grid Section -->
-    <section id="portfolio" class="bg-light-gray">
+    <section id="projekte" class="bg-light-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -227,7 +227,7 @@
     </section>
 	 
 	 <!-- Detail Section -->
-    <section id="detail">
+    <section id="besonderheiten">
 			<div class="container"  id="services">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -377,7 +377,7 @@
     </section>
 
     <!-- About Section -->
-    <section id="about">
+    <section id="fakten">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
