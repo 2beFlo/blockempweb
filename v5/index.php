@@ -88,7 +88,7 @@
 		      
     <!-- Portfolio Grid Section -->
     <section id="projekte" class="bg-light-gray">
-        <div class="container"  id="portfolio">
+        <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Unsere Projekte</h2>
