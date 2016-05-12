@@ -865,3 +865,157 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #416DB7;
 }
+
+#serverdaten .serverdaten-item {
+    right: 0;
+    margin: 0 0 15px;
+}
+
+#serverdaten .serverdaten-item .serverdaten-link {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+#serverdaten .serverdaten-item .serverdaten-link .serverdaten-hover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    background: rgba(254,209,54,.9);
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
+}
+
+#serverdaten .serverdaten-item .serverdaten-link .serverdaten-hover:hover {
+    opacity: 1;
+}
+
+#serverdaten .serverdaten-item .serverdaten-link .serverdaten-hover .serverdaten-hover-content {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 20px;
+    margin-top: -12px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+#serverdaten .serverdaten-item .serverdaten-link .serverdaten-hover .serverdaten-hover-content i {
+    margin-top: -12px;
+}
+
+#serverdaten .serverdaten-item .serverdaten-link .serverdaten-hover .serverdaten-hover-content h3,
+#serverdaten .serverdaten-item .serverdaten-link .serverdaten-hover .serverdaten-hover-content h4 {
+    margin: 0;
+}
+
+#serverdaten .serverdaten-item .serverdaten-caption {
+    margin: 0 auto;
+    padding: 25px;
+    max-width: 400px;
+    text-align: center;
+    background-color: #fff;
+}
+
+#serverdaten .serverdaten-item .serverdaten-caption h4 {
+    margin: 0;
+    text-transform: none;
+}
+
+#serverdaten .serverdaten-item .serverdaten-caption p {
+    margin: 0;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-style: italic;
+}
+
+#serverdaten * {
+    z-index: 2;
+}
+
+@media(min-width:767px) {
+    #serverdaten .serverdaten-item {
+        margin: 0 0 30px;
+    }
+}
+
+#nachtgedanken .nachtgedanken-item {
+    right: 0;
+    margin: 0 0 15px;
+}
+
+#nachtgedanken .nachtgedanken-item .nachtgedanken-link {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+#nachtgedanken .nachtgedanken-item .nachtgedanken-link .nachtgedanken-hover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    background: rgba(254,209,54,.9);
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
+}
+
+#nachtgedanken .nachtgedanken-item .nachtgedanken-link .nachtgedanken-hover:hover {
+    opacity: 1;
+}
+
+#nachtgedanken .nachtgedanken-item .nachtgedanken-link .nachtgedanken-hover .nachtgedanken-hover-content {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 20px;
+    margin-top: -12px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+#nachtgedanken .nachtgedanken-item .nachtgedanken-link .nachtgedanken-hover .nachtgedanken-hover-content i {
+    margin-top: -12px;
+}
+
+#nachtgedanken .nachtgedanken-item .nachtgedanken-link .nachtgedanken-hover .nachtgedanken-hover-content h3,
+#nachtgedanken .nachtgedanken-item .nachtgedanken-link .nachtgedanken-hover .nachtgedanken-hover-content h4 {
+    margin: 0;
+}
+
+#nachtgedanken .nachtgedanken-item .nachtgedanken-caption {
+    margin: 0 auto;
+    padding: 25px;
+    max-width: 400px;
+    text-align: center;
+    background-color: #fff;
+}
+
+#nachtgedanken .nachtgedanken-item .nachtgedanken-caption h4 {
+    margin: 0;
+    text-transform: none;
+}
+
+#nachtgedanken .nachtgedanken-item .nachtgedanken-caption p {
+    margin: 0;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-style: italic;
+}
+
+#nachtgedanken * {
+    z-index: 2;
+}
+
+@media(min-width:767px) {
+    #nachtgedanken .nachtgedanken-item {
+        margin: 0 0 30px;
+    }
+}
