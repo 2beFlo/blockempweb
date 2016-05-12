@@ -51,7 +51,7 @@
 
     <!-- Services Section -->
     <section id="serverdaten">
-    <div class="container">
+    <div class="container"  id="services">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Serverdaten</h2>
@@ -88,7 +88,7 @@
 		      
     <!-- Portfolio Grid Section -->
     <section id="projekte" class="bg-light-gray">
-        <div class="container">
+        <div class="container"  id="portfolio">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Unsere Projekte</h2>
