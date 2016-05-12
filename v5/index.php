@@ -378,7 +378,7 @@
 
     <!-- About Section -->
     <section id="fakten">
-        <div class="container">
+        <div class="container" id="about">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Gut zu wissen</h2>
