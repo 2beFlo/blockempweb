@@ -8,6 +8,7 @@
                             <img class="img-responsive img-centered" src="img/portfolio_intext/petra.png" alt="">
                             <p>Viele Sehenswürdigkeiten der originalen Petra-Anlage haben sich bereits in die Felsenschluchten unseres Amplified-Mesabiomes geschnitten, darunter das bekannte Schatzhaus, das Römische Theater sowie der Felsentempel ed-Deir. Mit weiteren Felsentempeln, kleinen Dörfern und verwinkelten Pfaden durchzieht das Projekt bereits jetzt einen Großteil des Bioms und wächst dabei stetig an. Als 100%  Survival-Projekt ist die Felsenstadt das bisher Umfangreichste seiner Art auf Blockempirium. </p>
                             <p>Wir danken Hille für ihre Ausdauer und Akkuratesse, bei der Umsetzung ihres Projekts.</p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> schlie&szlig;en</button>
                         </div>
                     </div>
                 </div>

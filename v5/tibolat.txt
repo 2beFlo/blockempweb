@@ -9,6 +9,7 @@
                             <p>Als besondere Augenweide im Zentrum dient natürlich der (immer schattenspendende) Baum, mittlerweile bis in die Baumkrone ausgehöhlt, und sowohl von innen, als auch von außen mit elfischer Architektur ausgeschmückt und überall begehbar.</p>
                             <img class="img-responsive img-centered" src="img/portfolio_intext/tibolat.png" alt="">
                             <p>Dank geht an Johny für dieses großartige Projekt.</p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> schlie&szlig;en</button>
                         </div>
                     </div>
                 </div>

@@ -8,6 +8,7 @@
                             <img class="img-responsive img-centered" src="img/portfolio_intext/badbergheim.png" alt="">
                             <p>Das generierte „amplified“-Terrain in dieser Region macht den Ort sowohl zu einem Hingucker, als auch zu einer Herausforderung für ambitionierte Survival Baumeister. So klammert sich der höchste Flugmeisterturm des Servers auf eine spitze Felsnadel, nur zu erreichen über eine buchtüberspannende Brücke. Das kleine Dorf vermittelt eine gemütliche Fantasy-Atmosphäre und dient außerdem als Basis für den ersten Gentlemans-Club des Servers: der Blockemp Schnösel Society.</p>
                             <p>Ihr erreicht Bad Bergheim entweder direkt per Schiff vom Spawn, oder über eine der angeschlossenen Flugrouten.</p>
+                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> schlie&szlig;en</button>
                         </div>
                     </div>
                 </div>
