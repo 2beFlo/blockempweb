@@ -258,7 +258,7 @@
                         <i class="fa fa-university fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Gehobener Baustil</h4>
-                    <p class="text-queit">Ein Markenzeichen unseres Servers ist sein stetes Streben nach guter Baukunst. Hier findet ihr nicht nur qualitativ Hochwertig gebaute Projekte aus der Vergangenheit des Servers, sondern auch Mitspieler, welche den Bau-Aspekt des Spiels lieben. Seit vielen Jahren ist Blockempirium dabei eine Ort der Innovation und des gemeinsamen Lernens im Punkto Bauen. Mit unserem umfangreichen Erfahrungsschatz in den verschiedensten Baustilen, konnten wir bisher noch jedem Neuankömmling den einen oder anderen Kniff beibringen.</p>
+                    <p class="text-queit">Ein Markenzeichen unseres Servers ist sein stetes Streben nach guter Baukunst. Hier findet ihr nicht nur qualitativ hochwertig gebaute Projekte aus der Vergangenheit des Servers, sondern auch Mitspieler, welche den Bau-Aspekt des Spiels lieben. Seit vielen Jahren ist Blockempirium dabei eine Ort der Innovation und des gemeinsamen Lernens im Punkto Bauen. Mit unserem umfangreichen Erfahrungsschatz in den verschiedensten Baustilen, konnten wir bisher noch jedem Neuankömmling den einen oder anderen Kniff beibringen.</p>
                 </div>
             </div>
         </div>

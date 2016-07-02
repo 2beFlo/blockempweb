@@ -113,7 +113,7 @@ require('badbergheim.txt');
                     </div>
                 </div>
             </div>
-
+					 <?php require('herorium.txt'); ?> 
         </div>
     </div>
     
