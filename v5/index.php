@@ -44,7 +44,7 @@
             <div class="intro-text">
                 <div class="intro-lead-in">Der Minecraft-Server ab 18!</div>
                 <div class="intro-heading">Block Empirium</div>
-                <a href="#services" class="page-scroll btn btn-xl">Lern uns kennen!</a>
+                <a href="#services" class="page-scroll btn btn-xl">Erkunde unsere Welt</a>
             </div>
         </div>
     </header>
