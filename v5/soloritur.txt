@@ -4,10 +4,10 @@
                         <div class="modal-body">
                             <!-- Hier beginnt der Inhalt -->
                             <h2>Sol Oritur</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                            <img class="img-responsive img-centered" src="img/portfolio/treehouse-preview.png" alt="">
-                            <p>Treehouse is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. This is bright and spacious design perfect for people or startup companies looking to showcase their apps or other projects.</p>
-                            <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/treehouse-free-psd-web-template/">FreebiesXpress.com</a>.</p>
+                            <p>Gelegen auf dem „Kontinent der aufgehenden Sonne“ ist das Bauprojekt Sol Oritur nicht nur unser aktuell größtes, sondern vielmehr auch unser ältestes. Bereits seit Anfang August 2012 wird unter der Grundidee einer Ansammlung von Siedlungen die sich stilistisch über verschiedene Stilepochen des Mittelalters verteilen gearbeitet. Aus dem ursprünglichen Projekt einer Hafenstadt am Totenkopf entwickelte sich dank immer neuer Ideen von Flo, aber auch dank der Unterstützung von LottaXL, Mulcho und Dangy das Großkönigreich von Sol Oritur.</p>
+                            <img class="img-responsive img-centered" src="img/portfolio_intext/prismarat.png" alt="">
+									 <p>Obgleich das Projekt bisweilen noch lange nicht abgeschlossen ist, sind doch einzelne Projektphase bereits vollendet und können in ihrem ganzen Umfang besichtigt werden. Besonders hervorzuheben sind dabei neben den drei großen Städten Sol Arrat, St. Prismarat und Anoretha vor allem die vielen kleinen Details, die das Projekt auszeichnen. Mit inzwischen großflächig eingesetztem Custom-Wald, liebevoll gestalteten Feldern auf der Freiberg-Farm und zahlreichen kleinen Geschichten die durch Armorstand-NPC oder aber auch Citizens dargestellt werden.</p>
+									 <p>Erreichen könnt ihr das Projekt Sol Oritur über das entsprechende Portal nach Sol Arrat im Protalraum am Spawn, per Schiff ausgehend vom Spawn-Hafen und per Flugmeister von Amnoon, dem Spawn und der Minenkolonie. Innerhalb des Projektes sind alle bisherigen Orte mit Wegen, die größeren Anlaufpunkte auch per Flugmeister und Schiff erreichbar.</p>                            
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> schlie&szlig;en</button>
                         </div>
                     </div>

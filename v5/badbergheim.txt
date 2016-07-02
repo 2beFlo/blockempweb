@@ -4,11 +4,10 @@
                         <div class="modal-body">
                             <!-- Hier beginnt der Inhalt -->
                             <h2>Bad Berheim an der Bucht der Wahl</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                            <img class="img-responsive img-centered" src="img/portfolio/dreams-preview.png" alt="">
-                            <p>Dreams is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Dreams is a modern one page web template designed for almost any purpose. It’s a beautiful template that’s designed with the Bootstrap framework in mind.</p>
-                            <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/dreams-free-one-page-web-template/">FreebiesXpress.com</a>.</p>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> schlie&szlig;en</button>
+                            <p>Auf Blockempirium unterscheiden wir zwischen Creative-Projekten, Combo-Projekten und Survival -Projekten. Der kleine Ort Bad Bergheim ist eines aus letzterer Kategorie und zeigt, dass auch die Admins hier noch wissen, wie sich Survival-Projekte anfühlen. Erbaut von Flo und Mulcho in einigen (soweit möglich) ungestörten Abendstunden, schmiegt sich dieses kleine Bergdorf in einen Fjord im nördlichen Hochgebirge unserer Karte. Die Bucht der Wahl.</p>
+                            <img class="img-responsive img-centered" src="img/portfolio_intext/badbergheim.png" alt="">
+                            <p>Das generierte „amplified“-Terrain in dieser Region macht den Ort sowohl zu einem Hingucker, als auch zu einer Herausforderung für ambitionierte Survival Baumeister. So klammert sich der höchste Flugmeisterturm des Servers auf eine spitze Felsnadel, nur zu erreichen über eine buchtüberspannende Brücke. Das kleine Dorf vermittelt eine gemütliche Fantasy-Atmosphäre und dient außerdem als Basis für den ersten Gentlemans-Club des Servers: der Blockemp Schnösel Society.</p>
+                            <p>Ihr erreicht Bad Bergheim entweder direkt per Schiff vom Spawn, oder über eine der angeschlossenen Flugrouten.</p>
                         </div>
                     </div>
                 </div>

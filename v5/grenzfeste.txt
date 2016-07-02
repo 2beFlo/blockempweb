@@ -4,11 +4,10 @@
                         <div class="modal-body">
                             <!-- Hier beginnt der Inhalt -->
                             <h2>Mulchos Grenzfeste</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                            <img class="img-responsive img-centered" src="img/portfolio/dreams-preview.png" alt="">
-                            <p>Dreams is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Dreams is a modern one page web template designed for almost any purpose. It’s a beautiful template that’s designed with the Bootstrap framework in mind.</p>
-                            <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/dreams-free-one-page-web-template/">FreebiesXpress.com</a>.</p>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> schlie&szlig;en</button>
+                            <p>Die Grenzfeste hielt als erste PvP-Arena Einzug auf dem Server. Ursprünglich als Architekturstudie geplant, wurde schnell klar, wie viel Spaß der taktische Burgenkampf in dieser verwinkelten, turmhohen Struktur bereitet. Inspiriert vom eingängigen Design aus Dark Souls I (Sen’sFortress), hat diese Festung bereits einen Mapwechsel überlebt und sich derweil zu einer ausgereiften PvP-Arena gemausert.</p>
+                            <p>Klassisch mit Schwert und Bogen, sowie dem extra Enterhaken, bietet sie ab 6 Spielern eine dynamische und besondere PvP-Erfahrung,  welche schon den einen oder anderen Teamspeak-Abend versüßt hat. Wie jede Arena auf Blockempirium wird auch hier im Modus „EndlessDeathmatch“ gespielt, was der Größe und Mentalität des Servers am besten entspricht.</p>
+                            <img class="img-responsive img-centered" src="img/portfolio_intext/grenzfeste.png" alt="">
+                            <p>Für alle, die mit PvP überhaupt nichts anfangen können, sei hier trotzdem einmal ein Besuch empfohlen. Als erste große Burg des Servers hat dieses Bauwerk eine gewisse Tradition und enthält viele gute Elemente im Innen- sowie Außenbereich, die für zukünftige Burgenbauer nützlich sein könnten.</p>
                         </div>
                     </div>
                 </div>

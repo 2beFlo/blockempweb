@@ -4,11 +4,10 @@
                         <div class="modal-body">
                             <!-- Hier beginnt der Inhalt -->
                             <h2>Felsenstadt Petra</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                            <img class="img-responsive img-centered" src="img/portfolio/golden-preview.png" alt="">
-                            <p>Start Bootstrap's Agency theme is based on Golden, a free PSD website template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Golden is a modern and clean one page web template that was made exclusively for Best PSD Freebies. This template has a great portfolio, timeline, and meet your team sections that can be easily modified to fit your needs.</p>
-                            <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/golden-free-one-page-web-template/">FreebiesXpress.com</a>.</p>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> schlie&szlig;en</button>
+                            <p>Viele kennen die Kulisse aus Indiana Jones, hoffentlich kennen sie einige auch aus kulturellem Interesse oder waren sogar einmal selbst vor Ort. Die Felsenstadt Petra ist mit ihrer filigranen, direkt in den Stein gehauenen Architektur in der Realität ein beeindruckendes Zeugnis antiker Baukunst. Grund genug, diesen Komplex als Inspiration für eines unserer größten Projekte zu bemühen.</p>
+                            <img class="img-responsive img-centered" src="img/portfolio_intext/petra.png" alt="">
+                            <p>Viele Sehenswürdigkeiten der originalen Petra-Anlage haben sich bereits in die Felsenschluchten unseres Amplified-Mesabiomes geschnitten, darunter das bekannte Schatzhaus, das Römische Theater sowie der Felsentempel ed-Deir. Mit weiteren Felsentempeln, kleinen Dörfern und verwinkelten Pfaden durchzieht das Projekt bereits jetzt einen Großteil des Bioms und wächst dabei stetig an. Als 100%  Survival-Projekt ist die Felsenstadt das bisher Umfangreichste seiner Art auf Blockempirium. </p>
+                            <p>Wir danken Hille für ihre Ausdauer und Akkuratesse, bei der Umsetzung ihres Projekts.</p>
                         </div>
                     </div>
                 </div>
