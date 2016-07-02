@@ -18,6 +18,11 @@ body {
     text-align: justify;
 }
 
+.text-silent {
+    color: #000;
+    text-align: justify;
+}
+
 .text-primary {
     color: #416DB7;
 }
