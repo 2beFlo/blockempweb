@@ -9,7 +9,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Block Empirium</a>
+                <a class="navbar-brand page-scroll" href="index.php#page-top">Block Empirium</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
