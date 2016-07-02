@@ -4,11 +4,12 @@
                         <div class="modal-body">
                             <!-- Hier beginnt der Inhalt -->
                             <h2>Die Zitadelle des Bösen</h2>
-                            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                            <p>Die Schwarze Zitadelle markiert das Zentrum allen Übels auf Blockempirium. Erschaffen vom ersten Schreckensfürsten und seinem treuen Diener Zebaoth, erhebt sich dieses majestätische Monument stattliche 200 Block in die Höhe und stellt damit das bisher höchste Bauwerk des Servers dar.</p>
                             <img class="img-responsive img-centered" src="img/portfolio/dreams-preview.png" alt="">
-                            <p>Dreams is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Dreams is a modern one page web template designed for almost any purpose. It’s a beautiful template that’s designed with the Bootstrap framework in mind.</p>
-                            <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/dreams-free-one-page-web-template/">FreebiesXpress.com</a>.</p>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> schlie&szlig;en</button>
+                            <p>Ausgerüstet mit den besten Qualitäten eines schurkischen Hauptquartiers, ist sie zudem komplett ausgebaut und für den Einsatz serverumspannender schwarzer Magie geeignet. Schwarzmagische Unterfangen werden direkt mit der Macht von vor Ort beschworenen Netherkristallen verstärkt, was zur Bildung einer wachsenden Verderbnis rund um unsere Bastion des Bösen geführt hat. Bestaunt eine atmosphärisch böse Landschaft, bevölkert von Kreaturen, die normalerweise nur im Nether anzutreffen sind.</p>
+                            <p>Einst bedrohte die Zitadelle alle braven Bürger des Blockempirium, bis sich das Böse für den Moment zur Ruhe setzte und sich auf einen wichtigen Aspekt des Schurkentums besann: Nachwuchsförderung</p>
+                            <p>Macht doch mal ein Praktikum als Scherge der Zitadelle. Besonders niederträchtige Absolventen werden in der Ehrengalerie des wahren Bösen geführt. Oder lasst euch vom teuflischen Angebot im Fanshop zur dunklen Seite bekehren. Sollte das alles nicht eurem Geschmack entsprechen, tragt die Kunde von Tod und Zerstörung auf einem pfeilschnellen Schlachtross der Zitadelle in die Welt hinaus.</p>
+                            <p>Das Böse mag schlafen, doch es kommt immer zurück!</p>                       
                         </div>
                     </div>
                 </div>
