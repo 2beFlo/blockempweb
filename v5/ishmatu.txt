@@ -7,9 +7,9 @@
                             <p> Al Ishmatu ist eine Stadt in der Wüste - nördlich von Savannah Peak und südlich von Tibolat. Zu erreichen ist sie über den Flugmeister-Service oder über das Flopulver- Netzwerk. Ein Besuch ist immer lohnenswert - auch nachts, da die Stadt monsterfrei ist (bis auf wenige verirrte Kreaturen). Zum Schauen und Entdecken laden das Minenviertel mit der öffentlichen Mine, den Schmelzöfen und der Hafenanlage ein. Hier findet ihr auch die einzigen erlaubten Abbaumöglichkeiten für hellen Sand und Sandstein. Natürlich immer wieder auffüllbar. Imposant und sehenswert ist auf jeden Fall der auf dem Berg gelegene Tempelbereich über mehrere Ebenen.<br/>
 Beim Schlendern durch die Altstadt mit den kleinen Läden, diverser Gastronomie und ortstypischen Handwerksbetrieben sollte man Zeit mitbringen. In jedem Haus gibt es etwas zu entdecken. Dort befindet sich auch das legendäre Spielcasino. Aber: Glücksspiel kann süchtig (oder reich) machen. Ebenfalls zu finden, ist hier ein Lagerhaus, in dem man ganz besonderen Sandstein kaufen kann. Ein Geheimtipp für alle Bauwütigen unter euch.<br/>
 Im ländlichen Bereich mit Landwirtschaft (Ackerbau, Viehzucht und Arabergestüt) und eigener Wasserversorgung dominiert ein kleiner bunter Basar. Eine Karawanserei existiert auch - allerdings mit Pferden. Elitär wird es im Villagerviertel. Zwischen großzügigen Stadtvillen leben hier zahlreiche handelswilligen Villager und warten nur auf Kundschaft. Aber vorsichtig, sie werden gut bewacht.<br/><br/>
+<img class="img-responsive img-centered" src="img/portfolio_intext/ishmatu.png" alt=""><br/>
 Hoffentlich seid ihr nun neugierig geworden und besucht mal<br/>
-                            <img class="img-responsive img-centered" src="img/portfolio_intext/ishmatu.png" alt=""><br/>
-Al Ishmatu - das Herz der Wüste</p>
+                            Al Ishmatu - das Herz der Wüste</p>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> schlie&szlig;en</button>
                         </div>
                     </div>
