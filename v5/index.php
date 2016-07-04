@@ -81,17 +81,17 @@
 					<span class="icon-next"></span>
 					</a>
 			</div> 
+					<h2 class="brand-before">
+						<small>Welcome to</small>
+					</h2>
+					<h1 class="brand-name">Business Casual</h1>
+					<hr class="tagline-divider">
+					<h2>
+						<small>By
+						<strong>Start Bootstrap</strong>
+						</small>
+					</h2>
 		</div>
-		<h2 class="brand-before">
-			<small>Welcome to</small>
-		</h2>
-		<h1 class="brand-name">Business Casual</h1>
-		<hr class="tagline-divider">
-		<h2>
-		<small>By
-			<strong>Start Bootstrap</strong>
-			</small>
-		</h2>
 	</section>
    
     <!-- Services Section -->
