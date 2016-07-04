@@ -94,7 +94,7 @@
 					<div class="item">
 						<img class="img-responsive img-full" src="img/galerie/contemptor.png" alt="">
 					</div>
-					<div class="item active">
+					<div class="item">
 						<img class="img-responsive img-full" src="img/galerie/ferieninsel.png" alt="">
 					</div>
 					<div class="item">
@@ -109,7 +109,7 @@
 					<div class="item">
 						<img class="img-responsive img-full" src="img/galerie/jail.png" alt="">
 					</div>
-										<div class="item active">
+					<div class="item">
 						<img class="img-responsive img-full" src="img/galerie/kleingartenverein.png" alt="">
 					</div>
 					<div class="item">
@@ -124,7 +124,7 @@
 					<div class="item">
 						<img class="img-responsive img-full" src="img/galerie/prozzo.png" alt="">
 					</div>
-										<div class="item active">
+					<div class="item">
 						<img class="img-responsive img-full" src="img/galerie/schoberclub.png" alt="">
 					</div>
 					<div class="item">
