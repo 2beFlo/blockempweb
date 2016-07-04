@@ -95,7 +95,7 @@
 						<img class="img-responsive img-full" src="img/galerie/contemptor.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/ferieninsel.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/emma.jpg" alt="">
 					</div>
 					<div class="item">
 						<img class="img-responsive img-full" src="img/galerie/grenzfeste.jpg" alt="">
