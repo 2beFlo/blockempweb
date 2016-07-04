@@ -4,7 +4,7 @@
                         <div class="modal-body">
                             <!-- Hier beginnt der Inhalt -->
                             <h2>Das Herorium</h2>
-                            <img class="img-responsive img-centered" src="img/portfolio_intext/herorium.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio_intext/herorium.jpg" alt="">
                             <p>Im Zentrum unserer Welt, heißt das Herorium alle neuen Spieler auf Blockempirium willkommen. Seit den ersten Tagen im Jahre 2011, hat dieser Spawn zahlreiche Erweiterungen, sowie eine komplette neu Interpretation erlebt und ist sich stets treu geblieben. Vier Brücken um ein zentrales, aufstrebendes Bauwerk mit offenem Design bietet unseren Gästen gleich zu Beginn eine atemberaubende Aussicht und stimmt sie darauf ein, was sie auf Blockempirium erwartet.</p>
                             <p>Stets darum bemüht, unseren Server so übersichtlich wie möglich zu halten, ist das Herorium umfassend beschildert und bietet euch alle wichtigen Informationen und grundlegende Spielmechaniken direkt aus erster Hand. Als Reiseknotenpunkt verfügt der Komplex über einen liebevoll gestalteten Portalraum, eine Flugmeisteranbindung, sowie einen kompletten Hafen, um so ziemlich jeden Ort auf Blockempirium schnell bereisen zu können.</p>
                             <p>Ebenfalls versammeln sich hier, im Zentrum der Welt, eine Vielzahl von Läden und Dienstleistern, die euch nützliche und unterhaltsame Ware anbieten. Man munkelt, es gäbe sogar einen Schwarzmarkt.</p>

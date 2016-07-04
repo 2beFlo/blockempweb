@@ -6,7 +6,7 @@
                             <h2>Mulchos Grenzfeste</h2>
                             <p>Die Grenzfeste hielt als erste PvP-Arena Einzug auf dem Server. Ursprünglich als Architekturstudie geplant, wurde schnell klar, wie viel Spaß der taktische Burgenkampf in dieser verwinkelten, turmhohen Struktur bereitet. Inspiriert vom eingängigen Design aus Dark Souls I (Sen’sFortress), hat diese Festung bereits einen Mapwechsel überlebt und sich derweil zu einer ausgereiften PvP-Arena gemausert.</p>
                             <p>Klassisch mit Schwert und Bogen, sowie dem extra Enterhaken, bietet sie ab 6 Spielern eine dynamische und besondere PvP-Erfahrung,  welche schon den einen oder anderen Teamspeak-Abend versüßt hat. Wie jede Arena auf Blockempirium wird auch hier im Modus „EndlessDeathmatch“ gespielt, was der Größe und Mentalität des Servers am besten entspricht.</p>
-                            <img class="img-responsive img-centered" src="img/portfolio_intext/grenzfeste.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio_intext/grenzfeste.jpg" alt="">
                             <p>Für alle, die mit PvP überhaupt nichts anfangen können, sei hier trotzdem einmal ein Besuch empfohlen. Als erste große Burg des Servers hat dieses Bauwerk eine gewisse Tradition und enthält viele gute Elemente im Innen- sowie Außenbereich, die für zukünftige Burgenbauer nützlich sein könnten.</p>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> schlie&szlig;en</button>
                         </div>

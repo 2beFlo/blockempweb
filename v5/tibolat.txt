@@ -7,7 +7,7 @@
                             <p>Die Stadt Tibolat ist eines unserer ersten und zweifellos das erfolgreichste Combo Projekt auf unserem Server. Combo Projekt, so nennen wir die gelungene Kombination von Creative und SurvivalGameplay in einem Projekt. </p>
                             <p>Nach der initialen Planung als Elfensiedlung rund um das zentrale Element: den riesigen Hauptbaum, wurde selbiger zunächst im Creative-Mode erstellt. Alle weiteren Arbeiten wurden im Survival-Mode erbracht. Nach und nach formte sich Tibolat zu dem, was wir heute auf dem Server sehen. Eine umfangreiche Stadt im holzbetonten schwungvollen elfischen Stil, komplett ausgebaut mit Hafen, Handelshäusern, Magierturm und .. und .. und .. . Schaut einfach mal vorbei. </p>
                             <p>Als besondere Augenweide im Zentrum dient natürlich der (immer schattenspendende) Baum, mittlerweile bis in die Baumkrone ausgehöhlt, und sowohl von innen, als auch von außen mit elfischer Architektur ausgeschmückt und überall begehbar.</p>
-                            <img class="img-responsive img-centered" src="img/portfolio_intext/tibolat.png" alt="">
+                            <img class="img-responsive img-centered" src="img/portfolio_intext/tibolat.jpg" alt="">
                             <p>Dank geht an Johny für dieses großartige Projekt.</p>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> schlie&szlig;en</button>
                         </div>

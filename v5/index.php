@@ -113,7 +113,7 @@
 						<img class="img-responsive img-full" src="img/galerie/kleingartenverein.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/kloster.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/kolster.jpg" alt="">
 					</div>
 					<div class="item">
 						<img class="img-responsive img-full" src="img/galerie/npeNCWL.jpg" alt="">
@@ -222,7 +222,7 @@ Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming 
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/aiishmatu.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/aiishmatu.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Ai Ishmatu</h4>
@@ -236,7 +236,7 @@ Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming 
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/countyjail.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/countyjail.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>BlockEmp County Jail</h4>
@@ -250,7 +250,7 @@ Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming 
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/solarrat.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/solarrat.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Sol Oritur</h4>
@@ -264,7 +264,7 @@ Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming 
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/petra.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/petra.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Felsenstadt Petra</h4>
@@ -278,7 +278,7 @@ Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming 
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/tibolat.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/tibolat.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Tibolat</h4>
@@ -292,7 +292,7 @@ Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming 
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/badbergheim.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/badbergheim.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Bad Bergheim an der Bucht der Wahl</h4>
@@ -306,7 +306,7 @@ Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming 
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/grenzfeste.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/grenzfeste.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Mulchos Grenzfeste</h4>
@@ -320,7 +320,7 @@ Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming 
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/spawn.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/spawn.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Das Herorium</h4>
@@ -334,7 +334,7 @@ Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming 
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/zitadelle.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/zitadelle.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Die Zitadelle des Bösen</h4>
