@@ -63,13 +63,13 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                             <div class="item active">
-                                <img class="img-responsive img-full" src="img/slide-1.jpg" alt="">
+                                <img class="img-responsive img-full" src="img/portfolio/countyjail.png" alt="">
                             </div>
                             <div class="item">
-                                <img class="img-responsive img-full" src="img/slide-2.jpg" alt="">
+                                <img class="img-responsive img-full" src="img/portfolio/solarrat.png" alt="">
                             </div>
                             <div class="item">
-                                <img class="img-responsive img-full" src="img/slide-3.jpg" alt="">
+                                <img class="img-responsive img-full" src="img/portfolio/mulcho.png" alt="">
                             </div>
                         </div>
 
