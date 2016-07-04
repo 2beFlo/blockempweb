@@ -80,64 +80,64 @@
 	<!-- Wrapper for slides -->
 				<div class="carousel-inner">
 					<div class="item active">
-						<img class="img-responsive img-full" src="img/galerie/asiatown.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/asiatown.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/banditen.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/banditen.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/bergheim.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/bergheim.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/anoretha.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/anoretha.jpg" alt="">
 					</div>
 					<div class="item">
 						<img class="img-responsive img-full" src="img/galerie/contemptor.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/ferieninsel.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/ferieninsel.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/grenzfeste.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/grenzfeste.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/header-bg4.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/header-bg4.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/ishmatu.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/ishmatu.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/jail.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/jail.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/kleingartenverein.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/kleingartenverein.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/kloster.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/kloster.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/npeNCWL.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/npeNCWL.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/olytra.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/olytra.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/prozzo.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/prozzo.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/schoberclub.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/schoberclub.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/solarrat.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/solarrat.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/spawn.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/spawn.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/swaggins.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/swaggins.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/tibolat.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/tibolat.jpg" alt="">
 					</div>
 				</div>
 
