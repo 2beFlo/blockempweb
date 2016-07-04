@@ -51,7 +51,7 @@
     <!-- Galerie Test -->
     
         <section  id="galerie">
-    <div class="container"  id="services">
+    <div class="container">
                        <div id="carousel-example-generic" class="carousel slide">
                         <!-- Indicators -->
                         <ol class="carousel-indicators hidden-xs">

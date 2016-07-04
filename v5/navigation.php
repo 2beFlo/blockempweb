@@ -34,7 +34,7 @@
                         <a class="page-scroll" href="index.php#nachtgedanken">Nachtgedanken</a>
                     </li>
     		    		  <li>
-                        <a class="page-scroll" href="index.php#about">Gut zu wissen</a>
+                        <a class="page-scroll" href="index.php#about">Wissenswert</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="index.php#team">Team</a>
