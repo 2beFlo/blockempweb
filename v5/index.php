@@ -63,13 +63,64 @@
 	<!-- Wrapper for slides -->
 				<div class="carousel-inner">
 					<div class="item active">
-						<img class="img-responsive img-full" src="img/portfolio_intext/prismarat.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/asiatown.png" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/portfolio_intext/solarrat.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/banditen.png" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/portfolio_intext/jail.png" alt="">
+						<img class="img-responsive img-full" src="img/galerie/bergheim.png" alt="">
+					</div>
+					<div class="item">
+						<img class="img-responsive img-full" src="img/galerie/anoretha.png" alt="">
+					</div>
+					<div class="item">
+						<img class="img-responsive img-full" src="img/galerie/contemptor.png" alt="">
+					</div>
+					<div class="item active">
+						<img class="img-responsive img-full" src="img/galerie/ferieninsel.png" alt="">
+					</div>
+					<div class="item">
+						<img class="img-responsive img-full" src="img/galerie/grenzfeste.png" alt="">
+					</div>
+					<div class="item">
+						<img class="img-responsive img-full" src="img/galerie/header-bg4.png" alt="">
+					</div>
+					<div class="item">
+						<img class="img-responsive img-full" src="img/galerie/ishmatu.png" alt="">
+					</div>
+					<div class="item">
+						<img class="img-responsive img-full" src="img/galerie/jail.png" alt="">
+					</div>
+										<div class="item active">
+						<img class="img-responsive img-full" src="img/galerie/kleingartenverein.png" alt="">
+					</div>
+					<div class="item">
+						<img class="img-responsive img-full" src="img/galerie/kloster.png" alt="">
+					</div>
+					<div class="item">
+						<img class="img-responsive img-full" src="img/galerie/npeNCWL.png" alt="">
+					</div>
+					<div class="item">
+						<img class="img-responsive img-full" src="img/galerie/olytra.png" alt="">
+					</div>
+					<div class="item">
+						<img class="img-responsive img-full" src="img/galerie/prozzo.png" alt="">
+					</div>
+										<div class="item active">
+						<img class="img-responsive img-full" src="img/galerie/schoberclub.png" alt="">
+					</div>
+					<div class="item">
+						<img class="img-responsive img-full" src="img/galerie/solarrat.png" alt="">
+					</div>
+					<div class="item">
+						<img class="img-responsive img-full" src="img/galerie/spawn.png" alt="">
+					</div>
+					<div class="item">
+						<img class="img-responsive img-full" src="img/galerie/swaggins.png" alt="">
+					</div>
+					<div class="item">
+						<img class="img-responsive img-full" src="img/galerie/tibolat.png" alt="">
 					</div>
 				</div>
 
