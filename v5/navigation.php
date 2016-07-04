@@ -19,6 +19,9 @@
                         <a href="index.php#page-top"></a>
                     </li>
                     <li>
+                        <a class="page-scroll" href="index.php#galerie">Galerie</a>
+                    </li>
+                    <li>
                         <a class="page-scroll" href="index.php#services">Serverdaten</a>
                     </li>
                     <li>

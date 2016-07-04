@@ -50,7 +50,7 @@
     </header>
     <!-- Galerie Test -->
     
-        <section  id="GALERIE">
+        <section  id="galerie">
     <div class="container"  id="services">
                        <div id="carousel-example-generic" class="carousel slide">
                         <!-- Indicators -->
