@@ -79,7 +79,7 @@
 
 	<!-- Wrapper for slides -->
 				<div class="carousel-inner">
-					<div class="item active">
+					<div class="item">
 						<img class="img-responsive img-full" src="img/galerie/asiatown.jpg" alt="">
 					</div>
 					<div class="item">
@@ -130,7 +130,7 @@
 					<div class="item">
 						<img class="img-responsive img-full" src="img/galerie/solarrat.jpg" alt="">
 					</div>
-					<div class="item">
+					<div class="item active">
 						<img class="img-responsive img-full" src="img/galerie/spawn.jpg" alt="">
 					</div>
 					<div class="item">
