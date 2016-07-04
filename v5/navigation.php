@@ -28,7 +28,7 @@
                         <a class="page-scroll" href="index.php#portfolio">Projekte</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="index.php#detail">Besonderheiten</a>
+                        <a class="page-scroll" href="index.php#detail">Besonderes</a>
                     </li>
 		    			  <li>
                         <a class="page-scroll" href="index.php#nachtgedanken">Nachtgedanken</a>
