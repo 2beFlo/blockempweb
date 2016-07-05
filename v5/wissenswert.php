@@ -10,7 +10,7 @@
                     <ul class="timeline">
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/portal200.png" alt="">
+                                <img class="img-circle img-responsive" src="img/about/portal200.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -24,7 +24,7 @@
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/handel200.png" alt="">
+                                <img class="img-circle img-responsive" src="img/about/handel200.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -38,7 +38,7 @@
                         </li>
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/flugmeister200.png" alt="">
+                                <img class="img-circle img-responsive" src="img/about/flugmeister200.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -52,7 +52,7 @@
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/kolonie200.png" alt="">
+                                <img class="img-circle img-responsive" src="img/about/kolonie200.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -66,7 +66,7 @@
                         </li>
 								<li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/cubes200.png" alt="">
+                                <img class="img-circle img-responsive" src="img/about/cubes200.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
