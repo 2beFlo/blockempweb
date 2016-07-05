@@ -11,7 +11,7 @@
 
     <title>Block Empirium - Der Minecraft-Server ab 18!</title>
     
-	 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+	 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
