@@ -16,7 +16,7 @@
                         <img src="img/portfolio/aiishmatu.jpg" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Ai Ishmatu</h4>
+                        <h4>Al Ishmatu</h4>
                         <p class="text-muted">Wüstenstadt von Mulcho & LottaXL</p>
                     </div>
                 </div>

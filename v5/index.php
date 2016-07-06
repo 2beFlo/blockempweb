@@ -48,15 +48,15 @@
             </div>
         </div>
     </header>
-    <!-- Galerie -->
-    
-    <section  id="galerie">
-		<?php require('galerie.php'); ?>
-	</section>
    
     <!-- Services Section -->
     <section id="services">
  		<?php require('serverdaten.php'); ?>                       
+	</section>
+    <!-- Galerie -->
+    
+    <section  id="galerie">
+		<?php require('galerie.php'); ?>
 	</section>
 		      
     <!-- Portfolio Grid Section -->

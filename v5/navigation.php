@@ -19,10 +19,10 @@
                         <a href="index.php#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="index.php#galerie">Galerie</a>
+                        <a class="page-scroll" href="index.php#services">Infos</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="index.php#services">Serverdaten</a>
+                        <a class="page-scroll" href="index.php#galerie">Galerie</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="index.php#portfolio">Projekte</a>
