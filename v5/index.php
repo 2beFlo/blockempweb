@@ -70,9 +70,11 @@
     </section>
     
     <!-- Nachtgedanken Grid Section -->
+    <!-- Folgt
     <section id="nachtgedanken" class="bg-light-gray">
  		<?php require('nachtgedanken.php'); ?>
     </section>
+    -->
 
     <!-- About Section -->
     <section id="about">

@@ -30,9 +30,11 @@
                     <li>
                         <a class="page-scroll" href="index.php#detail">Besonderheiten</a>
                     </li>
+		    			  <!-- Folgt
 		    			  <li>
                         <a class="page-scroll" href="index.php#nachtgedanken">Nachtgedanken</a>
                     </li>
+                    -->
     		    		  <li>
                         <a class="page-scroll" href="index.php#about">Wissenswertes</a>
                     </li>
