@@ -19,7 +19,7 @@
                         <a href="index.php#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="index.php#services">Infos</a>
+                        <a class="page-scroll" href="index.php#services">Informationen</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="index.php#galerie">Galerie</a>
