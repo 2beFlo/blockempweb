@@ -12,7 +12,7 @@
                         <i class="fa fa-cog fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Innovative Plugins</h4>
-                    <p class="text-queit">Mit hausgemachten Plugins gelingt es uns, in unserer Welt für eine besondere Atmosphäre zu sorgen. Vom Flugmeister über unsere Vending Machines, bis hin zum innovativen Armorstand Powerhouse "Art Deko gibt es nichts, was wir nicht haben. Mit kleinen subtilen Verbesserungen am Gameplay erweitern wir unser Survival- und Projekt-Konzept, immer mit dem Ziel, unseren Spielern das optimale Umfeld für die Umsetzung ihrer Ideen zu ermöglichen.</p>
+                    <p class="text-queit">Mit hausgemachten Plugins gelingt es uns, in unserer Welt für eine besondere Atmosphäre zu sorgen. Vom Flugmeister über unsere Vending Machines, bis hin zum innovativen Armorstand Powerhouse "Art Deko" gibt es nichts, was wir nicht haben. Mit kleinen subtilen Verbesserungen am Gameplay erweitern wir unser Survival- und Projekt-Konzept, immer mit dem Ziel, unseren Spielern das optimale Umfeld für die Umsetzung ihrer Ideen zu ermöglichen.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
