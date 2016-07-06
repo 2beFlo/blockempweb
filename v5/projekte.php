@@ -2,7 +2,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Unsere Projekte</h2>
-                    <h3 class="section-subheading text-muted">Eine Übersicht unserer abgeschlossenen & laufenden Projekte.</h3>
+                    <h3 class="section-subheading text-muted">Eine Auswahl abgeschlossener und laufender Projekte auf Blockempirium.</h3>
                 </div>
             </div>
             <div class="row">
