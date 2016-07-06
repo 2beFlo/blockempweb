@@ -21,70 +21,78 @@
 					<li data-target="#carousel-example-generic" data-slide-to="16"></li>
 					<li data-target="#carousel-example-generic" data-slide-to="17"></li>
 					<li data-target="#carousel-example-generic" data-slide-to="18"></li>
-					<li data-target="#carousel-example-generic" data-slide-to="19"></li>		
+					<li data-target="#carousel-example-generic" data-slide-to="19"></li>
+					<li data-target="#carousel-example-generic" data-slide-to="20"></li>
+					<li data-target="#carousel-example-generic" data-slide-to="21"></li>		
 				</ol>
 
 	<!-- Wrapper for slides -->
 				<div class="carousel-inner">
 					<div class="item active">
-						<img class="img-responsive img-full" src="img/galerie/spawn.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/1.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/asiatown.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/2.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/banditen.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/3.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/bergheim.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/4.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/anoretha.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/5.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/contemptor.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/6.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/emma.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/7.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/grenzfeste.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/8.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/header-bg4.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/9.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/ishmatu.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/10.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/jail.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/11.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/kleingartenverein.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/12.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/kolster.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/13.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/npeNCWL.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/14.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/olytra.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/15.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/prozzo.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/16.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/schoberclub.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/17.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/solarrat.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/18.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/swaggins.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/19.jpg" alt="">
 					</div>
 					<div class="item">
-						<img class="img-responsive img-full" src="img/galerie/tibolat.jpg" alt="">
+						<img class="img-responsive img-full" src="img/galerie/20.jpg" alt="">
+					</div>
+					<div class="item">
+						<img class="img-responsive img-full" src="img/galerie/21.jpg" alt="">
+					</div>
+					<div class="item">
+						<img class="img-responsive img-full" src="img/galerie/22.jpg" alt="">
 					</div>
 				</div>
 
