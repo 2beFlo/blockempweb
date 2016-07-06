@@ -5,15 +5,15 @@
                 </div>
             </div>
             <div class="row">
+                <!-- 
                 <div class="col-sm-4">
-						  <!--                    
                     <div class="team-member">
                         <img src="img/team/dickie.jpg" class="img-responsive img-circle" alt="">
                         <h4>DickieH</h4>
                         <p class="text-muted">Administrator</p>
                     </div>
-                    -->
                 </div>
+                -->
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/mulcho.jpg" class="img-responsive img-circle" alt="">
@@ -28,15 +28,15 @@
                         <p class="text-muted">Administrator</p>
                     </div>
                 </div>
-                <div class="col-sm-4">
-						  <!--                    
+                <!--
+                <div class="col-sm-4">                  
                     <div class="team-member">
                         <img src="img/team/pinzer.jpg" class="img-responsive img-circle" alt="">
                         <h4>MyPinzer</h4>
                         <p class="text-muted">Administrator</p>
                     </div>
-                    -->
                 </div>
+                -->
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/dangy.jpg" class="img-responsive img-circle" alt="">
