@@ -51,7 +51,7 @@
    
     <!-- Services Section -->
     <section id="services">
- 		<?php require('serverdaten.php'); ?>                       
+ 		<?php require('informationen.php'); ?>                       
 	</section>
     <!-- Galerie -->
     
