@@ -28,13 +28,13 @@
                         <a class="page-scroll" href="index.php#portfolio">Projekte</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="index.php#detail">Besonderes</a>
+                        <a class="page-scroll" href="index.php#detail">Besonderheiten</a>
                     </li>
 		    			  <li>
                         <a class="page-scroll" href="index.php#nachtgedanken">Nachtgedanken</a>
                     </li>
     		    		  <li>
-                        <a class="page-scroll" href="index.php#about">Wissenswert</a>
+                        <a class="page-scroll" href="index.php#about">Wissenswertes</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="index.php#team">Team</a>
