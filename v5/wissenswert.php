@@ -18,7 +18,7 @@
                                     <h4 class="subheading">Zentraler Hub am Spawn</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Die Portalhalle ist das Herz unseres Spawn. Von hieraus kommst du an alle für dich wichtigen Orte des Servers.</p>
+                                    <p class="text-muted">Die Portalhalle ist das Herz unseres Spawn. Von hier aus kommst du an alle für dich wichtigen Orte des Servers.</p>
                                 </div>
                             </div>
                         </li>
@@ -32,7 +32,7 @@
                                     <h4 class="subheading">Alles was das Herz begehrt</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Der Handelspavilion ist der Supermarkt des Servers. Eier verkaufen? Geht! Blöcke kaufen auch. Und dann gibt es da auch noch die Vending Maschines...</p>
+                                    <p class="text-muted">Der Handelspavillon ist der Supermarkt des Servers. Eier verkaufen? Geht! Blöcke kaufen auch. Und dann gibt es da auch noch die Vending Maschines...</p>
                                 </div>
                             </div>
                         </li>
@@ -46,7 +46,7 @@
                                     <h4 class="subheading">Die coolste Art zu Reisen</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Neben Portalen und Schiffen ist der Flugmeister eine weitere großartige Möglichkeit um auf dem Block Empirium von A nach B zu kommen. Einfach das Reiseziel auswählen und schon geht es durch die Lüfte!</p>
+                                    <p class="text-muted">Neben Portalen und Schiffen ist der Flugmeister eine weitere großartige Möglichkeit, um auf dem Block Empirium von A nach B zu kommen. Einfach das Reiseziel auswählen und schon geht es durch die Lüfte!</p>
                                 </div>
                             </div>
                         </li>
@@ -74,7 +74,7 @@
                                     <h4 class="subheading">Unser Konzeptbereich</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Bei uns liegt ein besonderer Fokus auf der Baukunst. Damit ihr jedoch nicht direkt im Survival loslegen müsst, sondern eure Ideen in Ruhe entwicken könnt, stellen wir euch mit dem Creative Cubes einen Konzeptbereich zur Verfügung.</p>
+                                    <p class="text-muted">Bei uns liegt ein besonderer Fokus auf der Baukunst. Damit ihr jedoch nicht direkt im Survival loslegen müsst, sondern eure Ideen in Ruhe entwickeln könnt, stellen wir euch mit den Creative Cubes einen Konzeptbereich zur Verfügung.</p>
                                 </div>
                             </div>
                         </li>

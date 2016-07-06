@@ -2,7 +2,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Mulchos Nachtgedanken</h2>
-                    <h3 class="section-subheading text-muted">Dinge, die unsen Oberguru aufregen.</h3>
+                    <h3 class="section-subheading text-muted">Dinge, die unseren Oberguru aufregen.</h3>
                 </div>
             </div>
             <div class="row">
