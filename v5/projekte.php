@@ -45,7 +45,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>Sol Oritur</h4>
-                        <p class="text-muted">Mittelalterlichen Königreich</p>
+                        <p class="text-muted">Mittelalterliches Großkönigreich</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
