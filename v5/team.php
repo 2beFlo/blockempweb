@@ -28,21 +28,26 @@
                         <p class="text-muted">Administrator</p>
                     </div>
                 </div>
-                <!--
-                <div class="col-sm-4">                  
-                    <div class="team-member">
-                        <img src="img/team/pinzer.jpg" class="img-responsive img-circle" alt="">
-                        <h4>MyPinzer</h4>
-                        <p class="text-muted">Administrator</p>
-                    </div>
-                </div>
-                -->
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/dangy.jpg" class="img-responsive img-circle" alt="">
                         <h4>Dangy</h4>
                         <p class="text-muted">Moderatorin & Grafikerin</p>
                     </div>
+                </div>
+            </div>
+            <div class="col-sm-4">                  
+                <div class="team-member">
+                    <img src="img/team/lucca.jpg" class="img-responsive img-circle" alt="">
+                    <h4>Lucca</h4>
+                    <p class="text-muted">Moderator</p>
+                </div>
+            </div>
+		<div class="col-sm-4">                  
+                    <div class="team-member">
+                    <img src="img/team/maryshore.jpg" class="img-responsive img-circle" alt="">
+                    <h4>Maryshore</h4>
+                    <p class="text-muted">Moderator</p>
                 </div>
             </div>
             <div class="row">
