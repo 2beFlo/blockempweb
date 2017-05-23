@@ -4,8 +4,7 @@
                     <h2 class="section-heading">Unser Team</h2>
                 </div>
             </div>
-            <div class="row">
-                <!-- 
+            <div class="row"> 
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/dickie.jpg" class="img-responsive img-circle" alt="">
@@ -13,7 +12,6 @@
                         <p class="text-muted">Administrator</p>
                     </div>
                 </div>
-                -->
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/mulcho.jpg" class="img-responsive img-circle" alt="">
