@@ -2,7 +2,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <!-- Hier beginnt der Inhalt  -->
+                            <!-- Hier beginnt der Inhalt -->
                             <h2>Das Herorium</h2>
                             <img class="img-responsive img-centered" src="img/portfolio_intext/herorium.jpg" alt="">
                             <p>Im Zentrum unserer Welt heißt das Herorium alle neuen Spieler auf Blockempirium willkommen. Seit den ersten Tagen im Jahre 2011 hat dieser Spawn zahlreiche Erweiterungen, sowie eine komplette neue Interpretation erlebt und ist sich stets treu geblieben. Vier Brücken um ein zentrales, aufstrebendes Bauwerk mit offenem Design bietet unseren Gästen gleich zu Beginn eine atemberaubende Aussicht und stimmt sie auf das ein, was sie auf Blockempirium erwartet.</p>
