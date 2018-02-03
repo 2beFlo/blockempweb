@@ -53,7 +53,7 @@
 
 <p><em>Angaben gemäß § 5 TMG & inhaltlich verantwortlich gemäß § 55 Abs. 2 RStV<br/>sowie Betreiber*innen des Minecraft-Servers Block Empirium:</em></p>
 
-<p>Florian Lillpopp <br>
+<p>Florian Lillpopp & Kai Aurich<br>
 info@blockempirium.de</p>
 <br />
 <br />
