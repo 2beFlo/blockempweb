@@ -32,7 +32,14 @@
                     <div class="team-member">
                         <img src="img/team/dangy.jpg" class="img-responsive img-circle" alt="">
                         <h4>Dangy</h4>
-                        <p class="text-muted">Moderatorin & Grafikerin</p>
+                        <p class="text-muted">Moderatorin & Pixelkünstlerin</p>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/nick.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Nick</h4>
+                        <p class="text-muted">Moderator & Entwickler</p>
                     </div>
                 </div>
             </div>
