@@ -24,7 +24,6 @@
 					<li data-target="#carousel-example-generic" data-slide-to="19"></li>
 					<li data-target="#carousel-example-generic" data-slide-to="20"></li>
 					<li data-target="#carousel-example-generic" data-slide-to="21"></li>
-                    <li data-target="#carousel-example-generic" data-slide-to="22"></li>
 				</ol>
 
 	<!-- Wrapper for slides -->
