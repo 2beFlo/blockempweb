@@ -20,6 +20,7 @@
                     </span>
                     <h4 class="service-heading">Teamspeak IP</h4>
                     <p class="text-muted">ts.blockempirium.de</p>
+                    <p class="text-muted"><a href="https://discord.gg/Nwxs4JE" target="_blank">https://discord.gg/Nwxs4JE</a></p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
