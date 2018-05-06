@@ -16,7 +16,7 @@
                     <ul class="list-inline quicklinks">
                         <li><a href="impressum.php">Impressum</a>
                         </li>
-                        <li><a href="http://www.blockempirium.de/forum/misc.php?action=help&hid=8">Datenschutzerkl&auml;rung</a>/li>
+                        <li><a href="http://www.blockempirium.de/forum/misc.php?action=help&hid=8">Datenschutzerkl&auml;rung</a></li>
                     </ul>
                 </div>
             </div>
