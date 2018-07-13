@@ -28,7 +28,7 @@
                         <i class="fa fa-map-marker fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Live Map</h4>
-                    <p class="text-muted"><a href="http://mc.blockempirium.de:8123" target="_blank">mc.blockempirium.de:8123</a></p>
+                    <p class="text-muted"><a href="https://livemap.blockempirium.de/" target="_blank">livemap.blockempirium.de</a></p>
                 </div>
                 <div class"spaceding">
                 <h3 class="section-heading">&nbsp;<br/><br/>Willkommen auf Blockempirium<br/>&nbsp;</h3>

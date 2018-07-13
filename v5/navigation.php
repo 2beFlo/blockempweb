@@ -42,7 +42,7 @@
                         <a class="page-scroll" href="index.php#team">Team</a>
                     </li>
 		    			  <li>
-								<a class="page-scroll" href="forum">Forum</a>
+								<a class="page-scroll" href="https://blockempirium.de/forum/">Forum</a>
 		    			  </li>
                 </ul>
             </div>
